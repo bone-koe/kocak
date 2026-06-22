@@ -5,9 +5,13 @@ on:
     - cron: '*/30 * * * *' # Menjalankan radar otomatis setiap 30 Menit
   workflow_dispatch: # Mengizinkan Kapten menekan tombol eksekusi manual
 
+# 🔑 INJEKSI KUNCI IZIN AGAR ROBOT BISA MENYIMPAN FILE M3U8
+permissions:
+  contents: write
+
 jobs:
   scrape-carryflix:
-    name: CarryFlix Interceptor # <-- Ini yang sebelumnya salah ketik
+    name: CarryFlix Interceptor
     runs-on: ubuntu-latest
 
     steps:
@@ -32,6 +36,6 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "Mabes Enterprise Auto-Bot"
-          git add CarryFlix_VOD_BoneTV.m3u8
+          git add -A
           git commit -m "🔥 Auto-Update CarryFlix VOD" || echo "Tidak ada perubahan jadwal."
           git push
