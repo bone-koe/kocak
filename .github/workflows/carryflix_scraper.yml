@@ -2,12 +2,12 @@ name: 🕵️‍♂️ CarryFlix Sniper Engine
 
 on:
   schedule:
-    - cron: '*/10 * * * *' # Menjalankan radar otomatis setiap 30 Menit
+    - cron: '*/30 * * * *' # Menjalankan radar otomatis setiap 30 Menit
   workflow_dispatch: # Mengizinkan Kapten menekan tombol eksekusi manual
 
 jobs:
   scrape-carryflix:
-    runs-name: CarryFlix Interceptor
+    name: CarryFlix Interceptor # <-- Ini yang sebelumnya salah ketik
     runs-on: ubuntu-latest
 
     steps:
