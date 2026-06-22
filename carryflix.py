@@ -6,6 +6,7 @@ from playwright.async_api import async_playwright
 # --- KONFIGURASI MABES ENTERPRISE: CARRYFLIX VOD HUNTER ---
 TARGET_URL = "https://carryflix.com/replays"
 OUTPUT_FILE = "CarryFlix_VOD_BoneTV.m3u8"
+DUMMY_LINK = "https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8"
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
 
 async def main():
@@ -38,6 +39,9 @@ async def main():
         except Exception as e:
             print("❌ Gagal memuat halaman Replay. Target down atau dilindungi Cloudflare.")
             await browser.close()
+            # 🛡️ JARING PENGAMAN: BUAT FILE DARURAT SEBELUM KELUAR
+            with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+                f.write(f"#EXTM3U\n#EXTINF:-1, [ERROR] CarryFlix Terblokir Jaringan\n{DUMMY_LINK}\n")
             return
 
         # Hitung jumlah VOD yang tersedia
