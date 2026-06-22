@@ -32,6 +32,6 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "Mabes Enterprise Auto-Bot"
-          git add CarryFlix_BoneTV.m3u8
-          git commit -m "🔥 Auto-Update CarryFlix M3U8" || echo "Tidak ada perubahan jadwal."
+          git add CarryFlix_VOD_BoneTV.m3u8
+          git commit -m "🔥 Auto-Update CarryFlix VOD" || echo "Tidak ada perubahan jadwal."
           git push
