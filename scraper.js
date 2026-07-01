@@ -4,22 +4,18 @@ const fs = require('fs');
 const DUMMY_URL = "https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8";
 
 (async () => {
-  // Jalankan browser Chromium (Headless mode)
   const browser = await chromium.launch({ headless: true });
   const context = await browser.newContext();
   const page = await context.newPage();
 
-  // Otomatis menutup semua tab iklan/pop-up yang terbuka akibat trigger klik
+  // Otomatis menutup tab popup iklan secepat kilat
   context.on('page', async popup => {
-    try {
-      await popup.close();
-    } catch (e) {}
+    try { await popup.close(); } catch (e) {}
   });
 
   console.log('Membuka beranda XYZStreams...');
   await page.goto('https://xyzstreams.st/', { waitUntil: 'domcontentloaded', timeout: 30000 });
 
-  // Ekstrak data jadwal dari halaman depan
   const events = await page.$$eval('.events-grid .event-card', cards => {
     return cards.map(card => {
       const title = card.querySelector('h3')?.innerText || 'Unknown Match';
@@ -48,7 +44,6 @@ const DUMMY_URL = "https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/head
   let m3u8Data = `#EXTM3U\n# Last Updated: ${lastUpdate} WIB\n# Mode: Playwright Server 1 Matrix Interception\n\n`;
 
   for (const ev of events) {
-    // Abaikan jika pertandingan sudah selesai (Ended)
     if (ev.statusText.toLowerCase() === 'ended') continue;
 
     let timeText = "";
@@ -60,54 +55,59 @@ const DUMMY_URL = "https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/head
         timeZone: 'Asia/Jakarta', hour: '2-digit', minute: '2-digit', hour12: false
       });
       timeText = ` ${timeFormatter.format(start)} WIB`;
-      
-      // Deteksi status berdasarkan waktu berjalan saat ini
       if (new Date() >= start) isLive = true;
     }
 
-    // Jika teks badge di web eksplisit bertuliskan 'live'
     if (ev.statusText.toLowerCase().includes('live')) isLive = true;
 
     const statusPrefix = isLive ? "🔴 LIVE" : "⏳ UPCOMING";
     
     console.log(`\nMemproses pertandingan: ${ev.title}`);
     const matchPage = await context.newPage();
-    
-    // Siapkan variabel penangkap jaringan m3u8 dinamis
-    let capturedM3u8 = null;
-    const onRequest = request => {
-      const url = request.url();
-      if (url.includes('.m3u8')) {
-        capturedM3u8 = url;
-      }
-    };
-    matchPage.on('request', onRequest);
-
     let hasAnyStream = false;
 
     try {
       const fullMatchUrl = new URL(ev.href, 'https://xyzstreams.st/').href;
       await matchPage.goto(fullMatchUrl, { waitUntil: 'domcontentloaded', timeout: 20000 });
       
-      // Skenario Mutlak: Pastikan Server 1 yang terpilih pada dropdown select
+      // KLIK PANCINGAN: Klik koordinat 10,10 untuk membuang lapisan pop-up iklan
+      await matchPage.mouse.click(10, 10);
+      await matchPage.waitForTimeout(1000);
+
       await matchPage.selectOption('#server-select', 'Server 1').catch(() => {});
       await matchPage.waitForTimeout(1000);
 
-      // Ambil seluruh elemen tombol saluran yang tersedia di Server 1
       const buttons = await matchPage.$$('#dynamic-buttons .streambutton');
       console.log(`-> Menemukan ${buttons.length} tombol saluran pada Server 1.`);
 
       for (let i = 0; i < buttons.length; i++) {
-        capturedM3u8 = null; // Reset penangkap untuk klik tombol ini
-        
         const buttonText = await matchPage.evaluate(el => el.innerText, buttons[i]);
-        const chNumber = i + 1; // Konversi indeks 0 menjadi CH 1
+        const chNumber = i + 1;
+        let capturedM3u8 = null;
 
         console.log(`   -> Mengklik CH ${chNumber}: ${buttonText}`);
-        await buttons[i].click({ force: true }).catch(() => {});
         
-        // Jeda tunggu 3 detik agar player memicu lalu lintas data m3u8 ke network
-        await matchPage.waitForTimeout(3000);
+        // DOUBLE CLICK: Memastikan tombol benar-benar tereksekusi
+        await buttons[i].click({ force: true }).catch(() => {});
+        await matchPage.waitForTimeout(500);
+        await buttons[i].click({ force: true }).catch(() => {});
+
+        // ACTIVE LISTENER: Menunggu maksimal 5 detik hingga request m3u8 muncul di network
+        try {
+          const request = await matchPage.waitForRequest(req => req.url().includes('.m3u8'), { timeout: 5000 });
+          capturedM3u8 = request.url();
+        } catch (e) {
+          // Timeout tercapai, artinya tidak ada request m3u8 yang lewat
+        }
+
+        // CADANGAN: Mencari m3u8 di dalam atribut 'src' iframe jika network sniffer lolos
+        if (!capturedM3u8) {
+          const iframeSrcs = await matchPage.$$eval('iframe', frames => frames.map(f => f.src));
+          for (let src of iframeSrcs) {
+            const urlMatch = src.match(/(https?:\/\/[^\s"'<>]+\.m3u8)/);
+            if (urlMatch) capturedM3u8 = urlMatch[1];
+          }
+        }
 
         if (capturedM3u8) {
           console.log(`      [BERHASIL] Tautan didapatkan: ${capturedM3u8}`);
@@ -120,19 +120,15 @@ const DUMMY_URL = "https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/head
           m3u8Data += `#EXTVLCOPT:http-user-agent=${userAgent}\n`;
           m3u8Data += `${capturedM3u8}\n\n`;
         } else {
-          console.log(`      [KOSONG] Tidak ada aktivitas m3u8 stream.`);
+          console.log(`      [KOSONG] Tidak ada aktivitas m3u8.`);
         }
       }
     } catch (err) {
-      console.log(`-> Kegagalan navigasi halaman detail: ${err.message}`);
+      console.log(`-> Kegagalan navigasi: ${err.message}`);
     }
 
-    // Cabut event listener jaringan sebelum menutup halaman pertandingan
-    matchPage.off('request', onRequest);
     await matchPage.close();
 
-    // --- AUTOMATIC DUMMY FALLBACK ---
-    // Jika seluruh tombol di Server 1 telah diperiksa dan tidak menghasilkan satu pun link m3u8 asli
     if (!hasAnyStream) {
       console.log(`-> Pertandingan belum merilis video m3u8. Mengalihkan ke tautan dummy.`);
       let displayTitle = `[${statusPrefix}${timeText}] ${ev.title} (Belum Mulai)`;
@@ -142,8 +138,7 @@ const DUMMY_URL = "https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/head
     }
   }
 
-  // Simpan hasil kompilasi akhir playlist
   fs.writeFileSync('output.m3u8', m3u8Data);
-  console.log('\n✅ Pembaruan berkas output.m3u8 sukses diselesaikan!');
+  console.log('\n✅ Berkas output.m3u8 sukses diselesaikan!');
   await browser.close();
 })();
