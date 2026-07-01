@@ -1,8 +1,8 @@
 #EXTM3U
-# Last Updated: 07/01/2026, 09:37 AM WIB
-# Mode: Playwright Server 1 Matrix Interception
+# Last Updated: 07/01/2026, 09:48 AM WIB
+# Mode: Proactive Matrix Interception
 
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/esbn1y1782634398.jpg/medium" group-title="XYZ STREAMS",[🔴 LIVE 09:00 WIB] FIFA WC 2026™ - Mexico vs Ecuador (Belum Mulai)
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/esbn1y1782634398.jpg/medium" group-title="XYZ STREAMS",[🔴 LIVE 09:00 WIB] FIFA WC 2026™ - Mexico vs Ecuador (Belum Mulai/Error)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
