@@ -1,8 +1,16 @@
 #EXTM3U
-# Last Updated: 07/01/2026, 11:11 AM WIB
+# Last Updated: 07/01/2026, 01:46 PM WIB
 # Mode: CDP Deep Network Interception
 
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/esbn1y1782634398.jpg/medium" group-title="XYZ STREAMS",[🔴 LIVE 09:00 WIB] FIFA WC 2026™ - Mexico vs Ecuador (Belum Mulai)
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/25hrqr1782634399.jpg/medium" group-title="XYZ STREAMS",[⏳ UPCOMING 23:00 WIB] FIFA WC 2026™ - England vs DR Congo (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/event/poster/wrg76o1782634405.jpg/medium" group-title="XYZ STREAMS",[⏳ UPCOMING 03:00 WIB] FIFA WC 2026™ - Belgium vs Senegal (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/mb1wzr1782546616.jpg/medium" group-title="XYZ STREAMS",[⏳ UPCOMING 07:00 WIB] FIFA WC 2026™ - USA vs Bosnia-Herzegovina (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
