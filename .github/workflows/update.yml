@@ -1,0 +1,37 @@
+name: XYZStreams Auto Scraper Matrix
+
+on:
+  schedule:
+    # Mengeset cron-job otomatis berjalan berkala setiap 10 menit
+    - cron: '*/10 * * * *'
+  workflow_dispatch: # Membuka opsi tombol manual 'Run Workflow' di GitHub
+
+jobs:
+  scrape_matrix:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js Environment
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install Project Dependencies
+        run: npm install
+
+      - name: Install Headless Chromium Browser
+        run: npx playwright install chromium --with-deps
+
+      - name: Execute Scraper Engine
+        run: node scraper.js
+
+      - name: Push Compiled M3U8 Playlist
+        run: |
+          git config --global user.name "Mabes Enterprise Automation"
+          git config --global user.email "mabes-bot@users.noreply.github.com"
+          git add output.m3u8
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update XYZ Streams Playlist [skip ci]"
+          git push
