@@ -1,0 +1,9 @@
+{
+  "name": "xyzstreams-scraper",
+  "version": "1.0.0",
+  "description": "Automated Matrix Playwright Scraper for XYZStreams",
+  "main": "scraper.js",
+  "dependencies": {
+    "playwright": "^1.42.0"
+  }
+}
