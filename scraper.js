@@ -4,8 +4,18 @@ const fs = require('fs');
 const DUMMY_URL = "https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8";
 
 (async () => {
-  const browser = await chromium.launch({ headless: true });
-  const context = await browser.newContext();
+  // Tambahkan argumen bypass standar untuk mengurangi deteksi bot
+  const browser = await chromium.launch({ 
+    headless: true,
+    args: [
+      '--no-sandbox',
+      '--disable-setuid-sandbox',
+      '--disable-blink-features=AutomationControlled'
+    ]
+  });
+  
+  const userAgent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36";
+  const context = await browser.newContext({ userAgent: userAgent });
   const page = await context.newPage();
 
   // Otomatis menutup tab popup iklan secepat kilat
@@ -14,7 +24,7 @@ const DUMMY_URL = "https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/head
   });
 
   console.log('Membuka beranda XYZStreams...');
-  await page.goto('https://xyzstreams.st/', { waitUntil: 'domcontentloaded', timeout: 30000 });
+  await page.goto('https://xyzstreams.st/', { waitUntil: 'domcontentloaded', timeout: 30000 }).catch(() => {});
 
   const events = await page.$$eval('.events-grid .event-card', cards => {
     return cards.map(card => {
@@ -30,14 +40,12 @@ const DUMMY_URL = "https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/head
 
       return { title, startTime, statusText, logo, href };
     });
-  });
+  }).catch(() => []);
 
   console.log(`Berhasil memetakan ${events.length} jadwal pertandingan.`);
 
-  const userAgent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36";
   const streamOrigin = "https://xyzstreams.st";
   const streamReferer = "https://xyzstreams.st/";
-
   const nowOptions = { timeZone: "Asia/Jakarta", year: 'numeric', month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit' };
   const lastUpdate = new Date().toLocaleString("en-US", nowOptions).replace(/\./g, ':');
 
@@ -59,7 +67,6 @@ const DUMMY_URL = "https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/head
     }
 
     if (ev.statusText.toLowerCase().includes('live')) isLive = true;
-
     const statusPrefix = isLive ? "🔴 LIVE" : "⏳ UPCOMING";
     
     console.log(`\nMemproses pertandingan: ${ev.title}`);
@@ -70,10 +77,8 @@ const DUMMY_URL = "https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/head
       const fullMatchUrl = new URL(ev.href, 'https://xyzstreams.st/').href;
       await matchPage.goto(fullMatchUrl, { waitUntil: 'domcontentloaded', timeout: 20000 });
       
-      // KLIK PANCINGAN: Klik koordinat 10,10 untuk membuang lapisan pop-up iklan
       await matchPage.mouse.click(10, 10);
       await matchPage.waitForTimeout(1000);
-
       await matchPage.selectOption('#server-select', 'Server 1').catch(() => {});
       await matchPage.waitForTimeout(1000);
 
@@ -81,31 +86,47 @@ const DUMMY_URL = "https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/head
       console.log(`-> Menemukan ${buttons.length} tombol saluran pada Server 1.`);
 
       for (let i = 0; i < buttons.length; i++) {
-        const buttonText = await matchPage.evaluate(el => el.innerText, buttons[i]);
+        const buttonText = await matchPage.evaluate(el => el.innerText, buttons[i]).catch(() => `CH ${i+1}`);
         const chNumber = i + 1;
         let capturedM3u8 = null;
 
         console.log(`   -> Mengklik CH ${chNumber}: ${buttonText}`);
         
-        // DOUBLE CLICK: Memastikan tombol benar-benar tereksekusi
+        // GLOBAL LISTENER: Pasang listener SEBELUM melakukan klik untuk menghindari Race Condition
+        const requestHandler = (req) => {
+          const url = req.url();
+          if (url.includes('.m3u8')) {
+            capturedM3u8 = url;
+          }
+        };
+        matchPage.on('request', requestHandler);
+        
         await buttons[i].click({ force: true }).catch(() => {});
         await matchPage.waitForTimeout(500);
         await buttons[i].click({ force: true }).catch(() => {});
 
-        // ACTIVE LISTENER: Menunggu maksimal 5 detik hingga request m3u8 muncul di network
-        try {
-          const request = await matchPage.waitForRequest(req => req.url().includes('.m3u8'), { timeout: 5000 });
-          capturedM3u8 = request.url();
-        } catch (e) {
-          // Timeout tercapai, artinya tidak ada request m3u8 yang lewat
-        }
+        // Tunggu maksimal 5 detik, biarkan listener menangkap request di background
+        await matchPage.waitForTimeout(5000);
+        
+        // Lepaskan listener agar tidak bertabrakan dengan iterasi berikutnya
+        matchPage.off('request', requestHandler);
 
-        // CADANGAN: Mencari m3u8 di dalam atribut 'src' iframe jika network sniffer lolos
+        // CADANGAN: Jika tidak ada di network, cari base64 atau parameter URL di dalam iframe
         if (!capturedM3u8) {
-          const iframeSrcs = await matchPage.$$eval('iframe', frames => frames.map(f => f.src));
+          const iframeSrcs = await matchPage.$$eval('iframe', frames => frames.map(f => f.src)).catch(() => []);
           for (let src of iframeSrcs) {
+            // Cek apakah m3u8 ada di query parameter secara eksplisit
             const urlMatch = src.match(/(https?:\/\/[^\s"'<>]+\.m3u8)/);
-            if (urlMatch) capturedM3u8 = urlMatch[1];
+            if (urlMatch) {
+                capturedM3u8 = urlMatch[1];
+            } else if (src.includes('base64')) {
+                // Seringkali iframe mengoper URL lewat base64 hash di src
+                try {
+                    const hash = src.split('=').pop();
+                    const decoded = Buffer.from(hash, 'base64').toString('utf-8');
+                    if (decoded.includes('.m3u8')) capturedM3u8 = decoded;
+                } catch(e) {}
+            }
           }
         }
 
