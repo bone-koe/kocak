@@ -47,8 +47,7 @@ const DUMMY_URL = "https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/head
   const nowOptions = { timeZone: "Asia/Jakarta", year: 'numeric', month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit' };
   const lastUpdate = new Date().toLocaleString("en-US", nowOptions).replace(/\./g, ':');
 
-  // Mode diubah ke JW Player API Extraction
-  let m3u8Data = `#EXTM3U\n# Last Updated: ${lastUpdate} WIB\n# Mode: JW Player API Extraction\n\n`;
+  let m3u8Data = `#EXTM3U\n# Last Updated: ${lastUpdate} WIB\n# Mode: CDP Deep Network Interception\n\n`;
 
   for (const ev of events) {
     if (ev.statusText.toLowerCase() === 'ended') continue;
@@ -71,58 +70,56 @@ const DUMMY_URL = "https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/head
     console.log(`\nMemproses pertandingan: ${ev.title}`);
     const matchPage = await context.newPage();
     let hasAnyStream = false;
+    let interceptedM3u8 = null;
 
     try {
+      // --- INJEKSI CHROME DEVTOOLS PROTOCOL (CDP) ---
+      // Kita pasang ini SEBELUM membuka URL pertandingan
+      const client = await context.newCDPSession(matchPage);
+      await client.send('Network.enable');
+
+      client.on('Network.requestWillBeSent', (event) => {
+        const url = event.request.url;
+        // Tangkap URL jika mengandung .m3u8 atau domain inproviszon
+        if (url.includes('.m3u8') || url.includes('inproviszon.st')) {
+          interceptedM3u8 = url;
+        }
+      });
+      // ----------------------------------------------
+
       const fullMatchUrl = new URL(ev.href, 'https://xyzstreams.st/').href;
       await matchPage.goto(fullMatchUrl, { waitUntil: 'domcontentloaded', timeout: 20000 });
       
-      // Membuang overlay iklan
+      // Buang overlay iklan
       await matchPage.mouse.click(10, 10);
-      await matchPage.waitForTimeout(1000);
+      await matchPage.waitForTimeout(1500);
 
       const buttons = await matchPage.$$('.streambutton, .channel-btn, [class*="btn"]');
       console.log(`-> Menemukan ${buttons.length} tombol saluran.`);
 
       for (let i = 0; i < buttons.length; i++) {
+        // Reset variabel untuk persiapan menangkap klik saluran ini
+        interceptedM3u8 = null; 
+        
         const buttonText = await matchPage.evaluate(el => el.innerText, buttons[i]).catch(() => `CH ${i+1}`);
         const chNumber = i + 1;
 
         console.log(`   -> Mengklik CH ${chNumber}: ${buttonText.trim()}`);
         
+        // Eksekusi klik ganda aman (beberapa situs butuh klik 2x untuk memicu respons)
+        await buttons[i].click({ force: true }).catch(() => {});
+        await matchPage.waitForTimeout(500);
         await buttons[i].click({ force: true }).catch(() => {});
         
-        // --- INTI STRATEGI BARU: BERTANYA LANGSUNG KE JW PLAYER ---
-        // Skrip akan masuk ke dalam browser dan memaksa JW Player menyerahkan URL-nya
-        const capturedM3u8 = await matchPage.evaluate(async () => {
-          return new Promise(resolve => {
-            let attempts = 0;
-            const interval = setInterval(() => {
-              attempts++;
-              try {
-                // Mengecek apakah JW Player sudah siap dan memiliki antrean file
-                if (typeof jwplayer === 'function' && jwplayer().getPlaylistItem()) {
-                  const fileUrl = jwplayer().getPlaylistItem().file;
-                  if (fileUrl && fileUrl.includes('.m3u8')) {
-                    clearInterval(interval);
-                    resolve(fileUrl);
-                  }
-                }
-              } catch (e) {
-                // Abaikan error jika jwplayer belum sepenuhnya dimuat
-              }
-              
-              // Timeout setelah ~5 detik (20 percobaan x 250ms)
-              if (attempts >= 20) {
-                clearInterval(interval);
-                resolve(null);
-              }
-            }, 250);
-          });
-        });
-        // ---------------------------------------------------------
+        // POLLING LOOP: Tunggu laporan dari CDP (Maksimal 6 detik)
+        let waitTime = 0;
+        while (!interceptedM3u8 && waitTime < 6000) {
+            await matchPage.waitForTimeout(250);
+            waitTime += 250;
+        }
 
-        if (capturedM3u8) {
-          console.log(`      [BERHASIL] Tautan diekstrak dari Player: ${capturedM3u8}`);
+        if (interceptedM3u8) {
+          console.log(`      [BERHASIL] CDP menangkap tautan: ${interceptedM3u8}`);
           hasAnyStream = true;
 
           let displayTitle = `[${statusPrefix}${timeText}] ${ev.title} (${buttonText.trim()})`;
@@ -130,9 +127,9 @@ const DUMMY_URL = "https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/head
           m3u8Data += `#EXTVLCOPT:http-referrer=${streamReferer}\n`;
           m3u8Data += `#EXTVLCOPT:http-origin=${streamOrigin}\n`;
           m3u8Data += `#EXTVLCOPT:http-user-agent=${userAgent}\n`;
-          m3u8Data += `${capturedM3u8}\n\n`;
+          m3u8Data += `${interceptedM3u8}\n\n`;
         } else {
-          console.log(`      [KOSONG] JW Player tidak mengembalikan tautan m3u8.`);
+          console.log(`      [KOSONG] CDP tidak mendeteksi aktivitas m3u8.`);
         }
       }
     } catch (err) {
@@ -143,7 +140,7 @@ const DUMMY_URL = "https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/head
 
     if (!hasAnyStream) {
       console.log(`-> Pertandingan belum merilis video m3u8. Mengalihkan ke tautan dummy.`);
-      let displayTitle = `[${statusPrefix}${timeText}] ${ev.title} (Belum Mulai/Tidak Tersedia)`;
+      let displayTitle = `[${statusPrefix}${timeText}] ${ev.title} (Belum Mulai)`;
       m3u8Data += `#EXTINF:-1 tvg-logo="${ev.logo}" group-title="XYZ STREAMS",${displayTitle}\n`;
       m3u8Data += `#EXTVLCOPT:http-user-agent=${userAgent}\n`;
       m3u8Data += `${DUMMY_URL}\n\n`;
