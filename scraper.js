@@ -4,7 +4,6 @@ const fs = require('fs');
 const DUMMY_URL = "https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8";
 
 (async () => {
-  console.log('Memulai investigasi dengan Playwright...');
   const browser = await chromium.launch({ 
     headless: true,
     args: [
@@ -25,82 +24,133 @@ const DUMMY_URL = "https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/head
   console.log('Membuka beranda XYZStreams...');
   await page.goto('https://xyzstreams.st/', { waitUntil: 'domcontentloaded', timeout: 30000 }).catch(() => {});
 
-  // 📸 TANGKAPAN LAYAR 1: Cek apakah diblokir Cloudflare di beranda
-  await page.waitForTimeout(2000); 
-  await page.screenshot({ path: 'debug-1-beranda.png', fullPage: true });
-  console.log('📸 [DEBUG] Tangkapan layar beranda disimpan: debug-1-beranda.png');
-
   const events = await page.$$eval('.events-grid .event-card', cards => {
     return cards.map(card => {
       const title = card.querySelector('h3')?.innerText || 'Unknown Match';
       const startTime = card.getAttribute('data-start');
       const statusText = card.querySelector('.event-status-badge')?.innerText?.trim() || '';
       const href = card.getAttribute('href');
-      return { title, startTime, statusText, href };
+      
+      let logo = '';
+      const bgStyle = card.getAttribute('style') || '';
+      const match = bgStyle.match(/url\(["']?(.*?)["']?\)/);
+      if (match && match[1]) logo = match[1];
+
+      return { title, startTime, statusText, logo, href };
     });
   }).catch(() => []);
 
-  // Kita batasi hanya memproses 1 pertandingan saja untuk uji coba debug agar cepat
-  const testEvents = events.filter(ev => !ev.statusText.toLowerCase().includes('ended')).slice(0, 1);
-  console.log(`\nMenemukan jadwal. Mengambil 1 pertandingan live/upcoming untuk debug...`);
+  console.log(`Berhasil memetakan ${events.length} jadwal pertandingan.`);
 
-  for (const ev of testEvents) {
-    console.log(`Memproses pertandingan: ${ev.title}`);
+  const streamOrigin = "https://xyzstreams.st";
+  const streamReferer = "https://xyzstreams.st/";
+  const nowOptions = { timeZone: "Asia/Jakarta", year: 'numeric', month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit' };
+  const lastUpdate = new Date().toLocaleString("en-US", nowOptions).replace(/\./g, ':');
+
+  // Mode diubah ke JW Player API Extraction
+  let m3u8Data = `#EXTM3U\n# Last Updated: ${lastUpdate} WIB\n# Mode: JW Player API Extraction\n\n`;
+
+  for (const ev of events) {
+    if (ev.statusText.toLowerCase() === 'ended') continue;
+
+    let timeText = "";
+    let isLive = false;
+
+    if (ev.startTime) {
+      const start = new Date(ev.startTime);
+      const timeFormatter = new Intl.DateTimeFormat('en-US', {
+        timeZone: 'Asia/Jakarta', hour: '2-digit', minute: '2-digit', hour12: false
+      });
+      timeText = ` ${timeFormatter.format(start)} WIB`;
+      if (new Date() >= start) isLive = true;
+    }
+
+    if (ev.statusText.toLowerCase().includes('live')) isLive = true;
+    const statusPrefix = isLive ? "🔴 LIVE" : "⏳ UPCOMING";
+    
+    console.log(`\nMemproses pertandingan: ${ev.title}`);
     const matchPage = await context.newPage();
-    
-    let interceptedM3u8 = null;
-    
-    // Pasang Jaring
-    matchPage.on('request', request => {
-      const url = request.url();
-      // Melonggarkan jaring: Cetak SEMUA request XHR/Fetch untuk melihat apa yang lewat
-      if (request.resourceType() === 'xhr' || request.resourceType() === 'fetch') {
-        if (url.includes('.m3u8') || url.includes('inproviszon.st')) {
-            interceptedM3u8 = url;
-            console.log(`      [JARING XHR/FETCH] Menangkap sesuatu: ${url}`);
-        }
-      }
-    });
+    let hasAnyStream = false;
 
     try {
       const fullMatchUrl = new URL(ev.href, 'https://xyzstreams.st/').href;
       await matchPage.goto(fullMatchUrl, { waitUntil: 'domcontentloaded', timeout: 20000 });
       
+      // Membuang overlay iklan
       await matchPage.mouse.click(10, 10);
-      await matchPage.waitForTimeout(2000); // Tunggu render player HLS.js
-
-      // 📸 TANGKAPAN LAYAR 2: Cek kondisi player sebelum klik saluran
-      await matchPage.screenshot({ path: 'debug-2-sebelum-klik.png' });
-      console.log('📸 [DEBUG] Tangkapan layar player disimpan: debug-2-sebelum-klik.png');
+      await matchPage.waitForTimeout(1000);
 
       const buttons = await matchPage.$$('.streambutton, .channel-btn, [class*="btn"]');
       console.log(`-> Menemukan ${buttons.length} tombol saluran.`);
 
-      if (buttons.length > 0) {
-        // Klik tombol saluran pertama saja untuk uji coba
-        const buttonText = await matchPage.evaluate(el => el.innerText, buttons[0]).catch(() => `CH 1`);
-        console.log(`   -> Mengklik CH 1: ${buttonText.trim()}`);
+      for (let i = 0; i < buttons.length; i++) {
+        const buttonText = await matchPage.evaluate(el => el.innerText, buttons[i]).catch(() => `CH ${i+1}`);
+        const chNumber = i + 1;
+
+        console.log(`   -> Mengklik CH ${chNumber}: ${buttonText.trim()}`);
         
-        await buttons[0].click({ force: true }).catch(() => {});
+        await buttons[i].click({ force: true }).catch(() => {});
         
-        let waitTime = 0;
-        while (!interceptedM3u8 && waitTime < 5000) {
-            await matchPage.waitForTimeout(500);
-            waitTime += 500;
+        // --- INTI STRATEGI BARU: BERTANYA LANGSUNG KE JW PLAYER ---
+        // Skrip akan masuk ke dalam browser dan memaksa JW Player menyerahkan URL-nya
+        const capturedM3u8 = await matchPage.evaluate(async () => {
+          return new Promise(resolve => {
+            let attempts = 0;
+            const interval = setInterval(() => {
+              attempts++;
+              try {
+                // Mengecek apakah JW Player sudah siap dan memiliki antrean file
+                if (typeof jwplayer === 'function' && jwplayer().getPlaylistItem()) {
+                  const fileUrl = jwplayer().getPlaylistItem().file;
+                  if (fileUrl && fileUrl.includes('.m3u8')) {
+                    clearInterval(interval);
+                    resolve(fileUrl);
+                  }
+                }
+              } catch (e) {
+                // Abaikan error jika jwplayer belum sepenuhnya dimuat
+              }
+              
+              // Timeout setelah ~5 detik (20 percobaan x 250ms)
+              if (attempts >= 20) {
+                clearInterval(interval);
+                resolve(null);
+              }
+            }, 250);
+          });
+        });
+        // ---------------------------------------------------------
+
+        if (capturedM3u8) {
+          console.log(`      [BERHASIL] Tautan diekstrak dari Player: ${capturedM3u8}`);
+          hasAnyStream = true;
+
+          let displayTitle = `[${statusPrefix}${timeText}] ${ev.title} (${buttonText.trim()})`;
+          m3u8Data += `#EXTINF:-1 tvg-logo="${ev.logo}" group-title="XYZ STREAMS",${displayTitle}\n`;
+          m3u8Data += `#EXTVLCOPT:http-referrer=${streamReferer}\n`;
+          m3u8Data += `#EXTVLCOPT:http-origin=${streamOrigin}\n`;
+          m3u8Data += `#EXTVLCOPT:http-user-agent=${userAgent}\n`;
+          m3u8Data += `${capturedM3u8}\n\n`;
+        } else {
+          console.log(`      [KOSONG] JW Player tidak mengembalikan tautan m3u8.`);
         }
-
-        // 📸 TANGKAPAN LAYAR 3: Cek kondisi player setelah diklik
-        await matchPage.screenshot({ path: 'debug-3-sesudah-klik.png' });
-        console.log('📸 [DEBUG] Tangkapan layar setelah klik disimpan: debug-3-sesudah-klik.png');
       }
-
     } catch (err) {
       console.log(`-> Kegagalan navigasi/scraping: ${err.message}`);
     }
 
     await matchPage.close();
+
+    if (!hasAnyStream) {
+      console.log(`-> Pertandingan belum merilis video m3u8. Mengalihkan ke tautan dummy.`);
+      let displayTitle = `[${statusPrefix}${timeText}] ${ev.title} (Belum Mulai/Tidak Tersedia)`;
+      m3u8Data += `#EXTINF:-1 tvg-logo="${ev.logo}" group-title="XYZ STREAMS",${displayTitle}\n`;
+      m3u8Data += `#EXTVLCOPT:http-user-agent=${userAgent}\n`;
+      m3u8Data += `${DUMMY_URL}\n\n`;
+    }
   }
 
+  fs.writeFileSync('output.m3u8', m3u8Data);
+  console.log('\n✅ Berkas output.m3u8 sukses diselesaikan!');
   await browser.close();
-  console.log('\n✅ Debug selesai. Silakan periksa 3 file gambar debug di folder yang sama.');
 })();
