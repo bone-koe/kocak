@@ -1,20 +1,12 @@
 #EXTM3U
-# Last Updated: 07/04/2026, 08:07 AM WIB
+# Last Updated: 07/04/2026, 11:45 AM WIB
 # Mode: CDP Deep Network Interception
 
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/wtxp1o1782546621.jpg/medium" group-title="XYZ STREAMS",[🔴 LIVE 05:30 WIB] FIFA WC 2026™ - Argentina vs Cape Verde Islands (Belum Mulai)
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/z8ewjr1782798427.jpg/medium" group-title="XYZ STREAMS",[⏳ UPCOMING 24:00 WIB] FIFA WC 2026™ - Canada vs Morocco (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/b6sdmo1782634401.jpg/medium" group-title="XYZ STREAMS",[⏳ UPCOMING 08:30 WIB] FIFA WC 2026™ - Colombia vs Ghana (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.nba.com/manage/2026/07/mia_vs_sas_game_recap_070326_thumbnail-full.png" group-title="XYZ STREAMS",[🔴 LIVE 07:00 WIB] Heat vs Spurs (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.nba.com/manage/2026/07/lal_vs_gwg_game_recap_070326_thumbnail-full-1.png" group-title="XYZ STREAMS",[⏳ UPCOMING 09:30 WIB] Lakers vs Warriors Gold (Belum Mulai)
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/90vkdc1782895937.jpg/medium" group-title="XYZ STREAMS",[⏳ UPCOMING 04:00 WIB] FIFA WC 2026™ - Paraguay vs France (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
