@@ -1,4 +1,8 @@
 #EXTM3U
-# Last Updated: 07/14/2026, 10:26 AM WIB
+# Last Updated: 07/14/2026, 12:44 PM WIB
 # Mode: CDP Deep Network Interception
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/1kp4vp1783751531.jpg/medium" group-title="XYZ STREAMS",[⏳ UPCOMING 02:00 WIB] World Cup > France vs Spain (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
