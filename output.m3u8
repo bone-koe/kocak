@@ -1,4 +1,8 @@
 #EXTM3U
-# Last Updated: 07/16/2026, 10:51 PM WIB
+# Last Updated: 07/16/2026, 11:58 PM WIB
 # Mode: CDP Deep Network Interception
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/uujwlw1784180543.jpg/medium" group-title="XYZ STREAMS",[⏳ UPCOMING 04:00 WIB] France vs England (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
