@@ -1,16 +1,12 @@
 #EXTM3U
-# Last Updated: 07/19/2026, 03:29 AM WIB
+# Last Updated: 07/19/2026, 04:13 AM WIB
 # Mode: CDP Deep Network Interception
 
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/uujwlw1784180543.jpg/medium" group-title="XYZ STREAMS",[⏳ UPCOMING 04:00 WIB] France vs England (Belum Mulai)
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/uujwlw1784180543.jpg/medium" group-title="XYZ STREAMS",[🔴 LIVE 04:00 WIB] France vs England (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgs.fubo.tv/s/gracenote/assets/p33389417_b_h2_ab.jpg?ch=width&auto=format%2Ccompress&dpr=2&w=284&h=160&fit=crop" group-title="XYZ STREAMS",[🔴 LIVE 24:00 WIB] BKFC 91 Naples: Hunt vs. Puglies (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/KHI_7TfN1Jc/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDvxW_YvVJ8ZAJb_hn8HtmUNfhHrA" group-title="XYZ STREAMS",[⏳ UPCOMING 04:00 WIB] UFC Fight Night: Du Plessis vs. Usman (Belum Mulai)
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/KHI_7TfN1Jc/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDvxW_YvVJ8ZAJb_hn8HtmUNfhHrA" group-title="XYZ STREAMS",[🔴 LIVE 04:00 WIB] UFC Fight Night: Du Plessis vs. Usman (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
