@@ -1,28 +1,20 @@
 #EXTM3U
-# Last Updated: 07/22/2026, 12:11 AM WIB
+# Last Updated: 07/22/2026, 01:40 AM WIB
 # Mode: CDP Deep Network Interception
-
-#EXTINF:-1 tvg-logo="https://ichef.bbci.co.uk/images/ic/1008x567/p0m5wskq.jpg" group-title="XYZ STREAMS",[🔴 LIVE 23:00 WIB] Ararat-Armenia vs Shamrock Rovers (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="https://ichef.bbci.co.uk/images/ic/1008x567/p0m5wskq.jpg" group-title="XYZ STREAMS",[🔴 LIVE 23:00 WIB] Iberia 1999 vs Slovan Bratislava (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
 #EXTINF:-1 tvg-logo="https://ichef.bbci.co.uk/images/ic/1008x567/p0m5wskq.jpg" group-title="XYZ STREAMS",[🔴 LIVE 24:00 WIB] AGF vs Lech Poznań (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
-#EXTINF:-1 tvg-logo="https://ichef.bbci.co.uk/images/ic/1008x567/p0m5wskq.jpg" group-title="XYZ STREAMS",[⏳ UPCOMING 01:00 WIB] Thun vs Dinamo Zagreb (Belum Mulai)
+#EXTINF:-1 tvg-logo="https://ichef.bbci.co.uk/images/ic/1008x567/p0m5wskq.jpg" group-title="XYZ STREAMS",[🔴 LIVE 01:00 WIB] Thun vs Dinamo Zagreb (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
-#EXTINF:-1 tvg-logo="https://ichef.bbci.co.uk/images/ic/1008x567/p0m5wskq.jpg" group-title="XYZ STREAMS",[⏳ UPCOMING 01:00 WIB] Fenerbahçe vs Górnik Zabrze (Belum Mulai)
+#EXTINF:-1 tvg-logo="https://ichef.bbci.co.uk/images/ic/1008x567/p0m5wskq.jpg" group-title="XYZ STREAMS",[🔴 LIVE 01:00 WIB] Fenerbahçe vs Górnik Zabrze (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
-#EXTINF:-1 tvg-logo="https://ichef.bbci.co.uk/images/ic/1008x567/p0m5wskq.jpg" group-title="XYZ STREAMS",[⏳ UPCOMING 01:30 WIB] Sturm Graz vs Hearts (Belum Mulai)
+#EXTINF:-1 tvg-logo="https://ichef.bbci.co.uk/images/ic/1008x567/p0m5wskq.jpg" group-title="XYZ STREAMS",[🔴 LIVE 01:30 WIB] Sturm Graz vs Hearts (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
