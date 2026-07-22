@@ -1,12 +1,8 @@
 #EXTM3U
-# Last Updated: 07/22/2026, 07:07 AM WIB
+# Last Updated: 07/22/2026, 10:36 AM WIB
 # Mode: CDP Deep Network Interception
 
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/5axpuc1784404993.jpg/medium" group-title="XYZ STREAMS",[⏳ UPCOMING 08:00 WIB] Cruz Azul vs Puebla (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/8z8srl1784404994.jpg/medium" group-title="XYZ STREAMS",[⏳ UPCOMING 10:05 WIB] Toluca vs Pumas UNAM (Belum Mulai)
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/8z8srl1784404994.jpg/medium" group-title="XYZ STREAMS",[🔴 LIVE 10:05 WIB] Toluca vs Pumas UNAM (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
