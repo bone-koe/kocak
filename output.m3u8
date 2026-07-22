@@ -1,4 +1,8 @@
 #EXTM3U
-# Last Updated: 07/22/2026, 09:26 PM WIB
+# Last Updated: 07/22/2026, 10:56 PM WIB
 # Mode: CDP Deep Network Interception
+
+#EXTINF:-1 tvg-logo="https://mrfixitstips.co.uk/thumbor/Rcs5ZHGTD3ZQXqm81IEz-xL5ibA=/1038x567/smart/https%3A%2F%2Fmedia.mrfixitstips.co.uk%2Fmain%2F2026%2F07%2FTottenham-v-MK-Dons.png" group-title="XYZ STREAMS",[⏳ UPCOMING 23:00 WIB] Tottenham Hotspur vs Milton Keynes Dons (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
