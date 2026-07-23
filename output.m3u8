@@ -1,20 +1,4 @@
 #EXTM3U
-# Last Updated: 07/23/2026, 11:34 AM WIB
+# Last Updated: 07/23/2026, 02:11 PM WIB
 # Mode: CDP Deep Network Interception
-
-#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/rNrQuDny5iiTxp7_CGq74w/580x386Sports.TVAPrM04.webp?colorRight=001E61&rtl=false&colorLeft=000000&imgEffectLogoRight=zmhMReO6B9qg6BroocH15w&style=m" group-title="XYZ STREAMS",[🔴 LIVE 09:30 WIB] Los Angeles FC vs Real Salt Lake (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/_-Sk811KTLUXYvd9llD6SA/580x386Sports.TVAPrM04.webp?colorRight=e80a4d&rtl=false&colorLeft=13294B&imgEffectLogoRight=LXdtAgsFTppgIi7bdUChUw&style=m" group-title="XYZ STREAMS",[🔴 LIVE 09:30 WIB] LA Galaxy vs St. Louis City (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/6MhXD8E85SMjttv3Fakzhw/580x386Sports.TVAPrM04.webp?colorRight=C6093B&rtl=false&colorLeft=004812&imgEffectLogoRight=t2NgSO_ylKAUWwdA0oo5CQ&style=m" group-title="XYZ STREAMS",[🔴 LIVE 09:30 WIB] Portland Timbers vs Dallas (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/acRQ15i52tjFlbJUdOqi0g/680x442Sports.TVAPrM04.webp?colorRight=61259E&rtl=false&colorLeft=0051BA&imgEffectLogoRight=gNhQYLuiFBBNEtiBscKCPQ&style=m" group-title="XYZ STREAMS",[🔴 LIVE 09:30 WIB] SJ Earthquakes vs Orlando City SC (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
