@@ -1,8 +1,8 @@
 #EXTM3U
-# Last Updated: 07/24/2026, 01:55 AM WIB
+# Last Updated: 07/24/2026, 03:04 AM WIB
 # Mode: CDP Deep Network Interception
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/80bbd438fb02701b2a8f586b2dc719207dbfc6c893f242092c3f5c14548d907a.jpg" group-title="XYZ STREAMS",[⏳ UPCOMING 02:00 WIB] Hajduk Split vs Paphos (Belum Mulai)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/80bbd438fb02701b2a8f586b2dc719207dbfc6c893f242092c3f5c14548d907a.jpg" group-title="XYZ STREAMS",[🔴 LIVE 02:00 WIB] Hajduk Split vs Paphos (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
