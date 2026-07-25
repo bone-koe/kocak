@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Updated: 07/26/2026, 05:10 AM WIB
+# Last Updated: 07/26/2026, 06:08 AM WIB
 # Mode: CDP Deep Network Interception
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OTk2xLw6xyk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAfqQaYlXMBK6pkMNzQUkgojCYtCw" group-title="XYZ STREAMS",[🔴 LIVE 20:00 WIB] Anthony Joshua vs. Kristian Prenga (Belum Mulai)
@@ -10,11 +10,15 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/tcdhcs1706713232.jpg/medium" group-title="XYZ STREAMS",[⏳ UPCOMING 05:30 WIB] New York RB vs Charlotte (Belum Mulai)
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/tcdhcs1706713232.jpg/medium" group-title="XYZ STREAMS",[🔴 LIVE 05:30 WIB] New York RB vs Charlotte (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/amz78m1761473518.jpg/medium" group-title="XYZ STREAMS",[⏳ UPCOMING 06:15 WIB] Columbus Crew vs Cincinnati (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f280cd2c-f4a6-4a2b-9f7f-e046e57bf8d2/4/BOXART-16X9/en-US._UR1920,1080_.png" group-title="XYZ STREAMS",[🔴 LIVE 06:07 WIB] Guadalajara vs Juárez (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
@@ -67,6 +71,14 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/qf8xen1771753373.jpg/medium" group-title="XYZ STREAMS",[⏳ UPCOMING 09:30 WIB] SJ Earthquakes vs LA Galaxy (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.82d7bd1a-3b67-4702-b829-d02b2f851ebd/2/BOXART-16X9/en-US/1920x1080._UR1920,1080_.png" group-title="XYZ STREAMS",[⏳ UPCOMING 10:00 WIB] Tigres UANL vs Atlético San Luis (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7lw5juq5rAQhm7PgeReroiSPeq1TLuar5BwQHhVZL3w&s=10" group-title="XYZ STREAMS",[⏳ UPCOMING 10:00 WIB] Santos Laguna vs Atlas (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
