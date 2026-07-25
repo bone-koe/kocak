@@ -1,4 +1,72 @@
 #EXTM3U
-# Last Updated: 07/26/2026, 04:13 AM WIB
+# Last Updated: 07/26/2026, 05:10 AM WIB
 # Mode: CDP Deep Network Interception
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OTk2xLw6xyk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAfqQaYlXMBK6pkMNzQUkgojCYtCw" group-title="XYZ STREAMS",[🔴 LIVE 20:00 WIB] Anthony Joshua vs. Kristian Prenga (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/venue/thumb/l0xepo1726650268.jpg" group-title="XYZ STREAMS",[🔴 LIVE 05:00 WIB] Liverpool vs Sunderland (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/tcdhcs1706713232.jpg/medium" group-title="XYZ STREAMS",[⏳ UPCOMING 05:30 WIB] New York RB vs Charlotte (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/amz78m1761473518.jpg/medium" group-title="XYZ STREAMS",[⏳ UPCOMING 06:15 WIB] Columbus Crew vs Cincinnati (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/4tewsv1706713194.jpg/medium" group-title="XYZ STREAMS",[⏳ UPCOMING 06:30 WIB] CF Montréal vs Inter Miami (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/w9mjlb1706713240.jpg/medium" group-title="XYZ STREAMS",[⏳ UPCOMING 06:30 WIB] DC United vs Toronto FC (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/n08wq51706713341.jpg/medium" group-title="XYZ STREAMS",[⏳ UPCOMING 06:30 WIB] New York City vs Chicago Fire (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/lwmhjf1706713349.jpg/medium" group-title="XYZ STREAMS",[⏳ UPCOMING 06:30 WIB] Orlando City SC vs Nashville SC (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/3rmfl11771753368.jpg/medium" group-title="XYZ STREAMS",[⏳ UPCOMING 06:30 WIB] Philadelphia Union vs Seattle Sounders FC (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/26x3yr1771753369.jpg/medium" group-title="XYZ STREAMS",[⏳ UPCOMING 06:30 WIB] NEFC vs Atlanta United (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/l4a5fw1706713165.jpg/medium" group-title="XYZ STREAMS",[⏳ UPCOMING 07:30 WIB] Houston Dynamo vs Austin (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/4cczpt1706713292.jpg/medium" group-title="XYZ STREAMS",[⏳ UPCOMING 07:30 WIB] Minnesota United vs Vancouver Whitecaps (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/q5g7os1771753370.jpg/medium" group-title="XYZ STREAMS",[⏳ UPCOMING 07:30 WIB] St. Louis City vs Colorado Rapids (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/8pyzqq1771753371.jpg/medium" group-title="XYZ STREAMS",[⏳ UPCOMING 08:30 WIB] San Diego vs Dallas (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/le3f061706713108.jpg/medium" group-title="XYZ STREAMS",[⏳ UPCOMING 09:30 WIB] Los Angeles FC vs Sporting KC (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/8xdfkt1706713315.jpg/medium" group-title="XYZ STREAMS",[⏳ UPCOMING 09:30 WIB] Portland Timbers vs Real Salt Lake (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/qf8xen1771753373.jpg/medium" group-title="XYZ STREAMS",[⏳ UPCOMING 09:30 WIB] SJ Earthquakes vs LA Galaxy (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
