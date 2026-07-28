@@ -1,8 +1,8 @@
 #EXTM3U
-# Last Updated: 07/28/2026, 04:25 PM WIB
+# Last Updated: 07/28/2026, 06:32 PM WIB
 # Mode: CDP Deep Network Interception
 
-#EXTINF:-1 tvg-logo="https://sportshub.cbsistatic.com/i/2026/07/27/1d8f188b-155b-4031-a9c1-39359374503d/image-1785183636897.png" group-title="XYZ STREAMS",[⏳ UPCOMING 16:30 WIB] Chelsea vs Western Sydney Wanderers (Belum Mulai)
+#EXTINF:-1 tvg-logo="https://sportshub.cbsistatic.com/i/2026/07/27/1d8f188b-155b-4031-a9c1-39359374503d/image-1785183636897.png" group-title="XYZ STREAMS",[🔴 LIVE 16:30 WIB] Chelsea vs Western Sydney Wanderers (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
