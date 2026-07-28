@@ -1,4 +1,8 @@
 #EXTM3U
-# Last Updated: 07/29/2026, 05:06 AM WIB
+# Last Updated: 07/29/2026, 06:11 AM WIB
 # Mode: CDP Deep Network Interception
+
+#EXTINF:-1 tvg-logo="https://d2779tscntxxsw.cloudfront.net/697b7b7f6645e.png" group-title="XYZ STREAMS",[🔴 LIVE 05:25 WIB] 2026 USAC Indiana Sprint Week (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
