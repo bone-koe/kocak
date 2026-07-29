@@ -1,4 +1,16 @@
 #EXTM3U
-# Last Updated: 07/30/2026, 04:07 AM WIB
+# Last Updated: 07/30/2026, 05:09 AM WIB
 # Mode: CDP Deep Network Interception
+
+#EXTINF:-1 tvg-logo="https://d2779tscntxxsw.cloudfront.net/697b7b7f6645e.png" group-title="XYZ STREAMS",[⏳ UPCOMING 05:15 WIB] 2026 USAC Indiana Sprint Week at Paragon Speedway (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgs.fubo.tv/s/page-manager/page-manager/common/slate?w=1.0&h=1.0&auto=format&mask=ellipse2.png&mask-bg=486627&bg=B00000&mark-w=1.0&mark-h=1.0&mark-pad=0&mark64=aHR0cHM6Ly9pbWdzLmZ1Ym8udHYvcy9wYWdlLW1hbmFnZXIvcGFnZS1tYW5hZ2VyL2NvbW1vbi9zbGF0ZT93PTE5MjAmaD0xMDgwJmF1dG89Zm9ybWF0JmJsZW5kLW1vZGU9bm9ybWFsJmJsZW5kLXg9OTYwJmJsZW5kNjQ9YUhSMGNITTZMeTlwYldkekxtWjFZbTh1ZEhZdmN5OW5jbUZqWlc1dmRHVXZZWE56WlhSekwzUTJOek14WDJ4ZmFERTFYMkZoTG5CdVp6OTNQVGsyTUNab1BURXdPREFtY0dGa1BURXhPU1p3WVdRdGRHOXdQVEk0Tmlad1lXUXRZbTkwZEc5dFBUSTROaVowY21sdFBXRnNjR2hoSm1acGREMW1hV3hzSm1acGJHeERiMnh2Y2owd01EQXdNREF3TUEmbWFyay14PTAmbWFyay1wYWQ9MCZtYXJrNjQ9YUhSMGNITTZMeTlwYldkekxtWjFZbTh1ZEhZdmN5OW5jbUZqWlc1dmRHVXZZWE56WlhSekwzUTJNVEkyWDJ4ZmFERTFYMkZqTG5CdVp6OTNQVGsyTUNab1BURXdPREFtY0dGa1BURXhPU1p3WVdRdGRHOXdQVEk0Tmlad1lXUXRZbTkwZEc5dFBUSTROaVowY21sdFBXRnNjR2hoSm1acGREMW1hV3hzSm1acGJHeERiMnh2Y2owd01EQXdNREF3TUE" group-title="XYZ STREAMS",[⏳ UPCOMING 06:30 WIB] Wrexham vs Liverpool (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/F64wWKIjwO71vAo-OpEg7Q/680x442Sports.TVAMCR02.webp" group-title="XYZ STREAMS",[⏳ UPCOMING 07:00 WIB] MLS All Star Team vs Liga MX All-Stars (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
