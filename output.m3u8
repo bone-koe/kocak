@@ -1,4 +1,16 @@
 #EXTM3U
-# Last Updated: 07/31/2026, 12:45 AM WIB
+# Last Updated: 07/31/2026, 02:01 AM WIB
 # Mode: CDP Deep Network Interception
+
+#EXTINF:-1 tvg-logo="https://d2779tscntxxsw.cloudfront.net/697b7b7f6645e.png" group-title="XYZ STREAMS",[⏳ UPCOMING 05:15 WIB] 2026 USAC Indiana Sprint Week at Terre Haute Action Track (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://dirtvision.asset.viewlift.com/images/2026/04/16/Cedar-Lake1-1776350576180.png" group-title="XYZ STREAMS",[⏳ UPCOMING 06:00 WIB] Cedar Lake Speedway - World of Outlaws Late Models (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.goal.com/images/v3/NZg_xT20rqClyYr57KvfA_DESKTOP/image.jpg" group-title="XYZ STREAMS",[⏳ UPCOMING 06:30 WIB] Sunderland vs Leeds United (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
