@@ -1,6 +1,10 @@
 #EXTM3U
-# Last Updated: 08/01/2026, 02:01 AM WIB
+# Last Updated: 08/01/2026, 03:25 AM WIB
 # Mode: CDP Deep Network Interception
+
+#EXTINF:-1 tvg-logo="https://pflmma-prod.s3.amazonaws.com/articles/featured/88db5440d4328701ee1ce2fbfa27c979-1-1.jpg" group-title="XYZ STREAMS",[⏳ UPCOMING 03:30 WIB] PFL New York (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.gavyny704.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/birmingham-city.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/barcelona.png?q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 01:45 WIB] Birmingham City vs Barcelona (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
