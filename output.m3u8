@@ -1,28 +1,12 @@
 #EXTM3U
-# Last Updated: 08/01/2026, 08:08 AM WIB
+# Last Updated: 08/01/2026, 11:30 AM WIB
 # Mode: CDP Deep Network Interception
 
-#EXTINF:-1 tvg-logo="https://d2779tscntxxsw.cloudfront.net/697b7b7f6645e.png" group-title="XYZ STREAMS",[🔴 LIVE 05:15 WIB] USAC Indiana Sprint Week at Bloomington (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="https://d2779tscntxxsw.cloudfront.net/661834373331d.png" group-title="XYZ STREAMS",[🔴 LIVE 05:15 WIB] NASCAR Weekly Racing at Autodrome Granby (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="https://dirtvision.asset.viewlift.com/images/2026/02/14/7-31-26_Attica-1771103701836.png" group-title="XYZ STREAMS",[🔴 LIVE 05:30 WIB] Attica Raceway Park (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="https://dirtvision.asset.viewlift.com/images/2025/11/20/7-31-26_SC-1763654774721.png" group-title="XYZ STREAMS",[🔴 LIVE 05:45 WIB] Williams Grove Speedway (Belum Mulai)
+#EXTINF:-1 tvg-logo="https://riivet.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeHpiQnc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--d4172d9547b66b1d43e9908b270a77b392d701cc/fa134d3fee9b791bc6117d182931d491.png" group-title="XYZ STREAMS",[🔴 LIVE 06:50 WIB] Hunt the Front @ Duck River (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
 #EXTINF:-1 tvg-logo="https://pflmma-prod.s3.amazonaws.com/articles/featured/88db5440d4328701ee1ce2fbfa27c979-1-1.jpg" group-title="XYZ STREAMS",[🔴 LIVE 03:30 WIB] PFL New York (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?logo1=https://cdn.livesoccertv.com/tt/images/teams/united-states/logos/new-york-city.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/united-states/logos/toronto.png?q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 06:30 WIB] New York City vs Toronto FC (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
