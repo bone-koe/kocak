@@ -1,4 +1,12 @@
 #EXTM3U
-# Last Updated: 08/05/2026, 11:58 PM WIB
+# Last Updated: 08/06/2026, 01:16 AM WIB
 # Mode: CDP Deep Network Interception
+
+#EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/arsenal.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/real-betis.png?q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 01:30 WIB] Arsenal vs Real Betis (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?logo1=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/mallorca.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/france/logos/psg.png?q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 02:00 WIB] Mallorca vs PSG (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
