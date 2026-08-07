@@ -1,4 +1,32 @@
 #EXTM3U
-# Last Updated: 08/07/2026, 12:09 PM WIB
+# Last Updated: 08/07/2026, 01:15 PM WIB
 # Mode: CDP Deep Network Interception
+
+#EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?color1=0b1a39&color2=3a0a22&logo1=https://cdn.livesoccertv.com/tt/images/teams/germany/logos/bayern-munchen.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/aston-villa.png?q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 19:00 WIB] Bayern München vs Aston Villa (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?color1=6d1419&color2=0a183b&logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/fulham.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/crystal-palace.png?q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 24:00 WIB] Fulham vs Crystal Palace (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?logo1=https://cdn.livesoccertv.com/tt/images/teams/united-states/logos/columbus-crew.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/mexico/logos/pachuca.png?q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 06:30 WIB] Columbus Crew vs Pachuca (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?logo1=https://cdn.livesoccertv.com/tt/images/teams/united-states/logos/charlotte.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/mexico/logos/atlas.png?q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 06:30 WIB] Charlotte vs Atlas (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?logo1=https://cdn.livesoccertv.com/tt/images/teams/united-states/logos/fc-cincinnati.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/mexico/logos/pumas-unam.png?q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 07:00 WIB] Cincinnati vs Pumas UNAM (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?logo1=https://cdn.livesoccertv.com/tt/images/teams/mexico/logos/tigres-uanl.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/united-states/logos/minnesota-united.png?q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 08:00 WIB] Tigres UANL vs Minnesota United (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?logo1=https://cdn.livesoccertv.com/tt/images/teams/canada/logos/vancouver-whitecaps.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/mexico/logos/juarez.png?q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 09:30 WIB] Vancouver Whitecaps vs Juárez (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
