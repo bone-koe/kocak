@@ -1,12 +1,4 @@
 #EXTM3U
-# Last Updated: 08/07/2026, 10:24 AM WIB
+# Last Updated: 08/07/2026, 12:09 PM WIB
 # Mode: CDP Deep Network Interception
-
-#EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?color1=6b6602&logo1=https://cdn.livesoccertv.com/tt/images/teams/mexico/logos/america.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/united-states/logos/san-diego.png?q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 09:00 WIB] América vs San Diego (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?color2=123a4e&logo1=https://cdn.livesoccertv.com/tt/images/teams/united-states/logos/portland-timbers.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/mexico/logos/puebla.png?q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 09:30 WIB] Portland Timbers vs Puebla (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
