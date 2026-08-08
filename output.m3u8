@@ -1,8 +1,32 @@
 #EXTM3U
-# Last Updated: 08/09/2026, 01:52 AM WIB
+# Last Updated: 08/09/2026, 02:19 AM WIB
 # Mode: CDP Deep Network Interception
 
-#EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?logo1=https://cdn.livesoccertv.com/tt/images/teams/hungary/logos/ferencvaros.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/real-madrid.png?q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 24:00 WIB] Ferencváros vs Real Madrid (Belum Mulai)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp981gk4S-0SZf8PmuXDcdAtAyA9Xx35lMuNdW-vua2Q&s=10" group-title="XYZ STREAMS",[⏳ UPCOMING 04:00 WIB] UFC Fight Night: Gamrot vs. Salkilld (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?logo1=https://cdn.livesoccertv.com/tt/images/teams/united-states/logos/new-england-revolution.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/united-states/logos/houston-dynamo.png?q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 03:30 WIB] New England vs Houston Dynamo (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?color1=2a1342&color2=103e26&logo1=https://cdn.livesoccertv.com/tt/images/teams/united-states/logos/orlando-city.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/mexico/logos/leon.png?q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 05:30 WIB] Orlando City SC vs León (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?color2=0c1125&logo1=https://cdn.livesoccertv.com/tt/images/teams/united-states/logos/inter-miami.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/mexico/logos/monterrey.png?q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 07:00 WIB] Inter Miami vs Monterrey (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?color1=684d02&color2=4f1217&logo1=https://cdn.livesoccertv.com/tt/images/teams/mexico/logos/guadalajara.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/united-states/logos/fc-dallas.png?q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 08:00 WIB] Guadalajara vs Dallas (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?color1=655500&color2=072517&logo1=https://cdn.livesoccertv.com/tt/images/teams/united-states/logos/real-salt-lake.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/mexico/logos/atlante.png?q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 09:00 WIB] Real Salt Lake vs Atlante (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?color1=57080f&logo1=https://cdn.livesoccertv.com/tt/images/teams/mexico/logos/toluca.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/united-states/logos/los-angeles.png?q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 10:10 WIB] Toluca vs Los Angeles FC (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
