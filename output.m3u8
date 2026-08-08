@@ -1,10 +1,6 @@
 #EXTM3U
-# Last Updated: 08/08/2026, 10:15 PM WIB
+# Last Updated: 08/08/2026, 10:46 PM WIB
 # Mode: CDP Deep Network Interception
-
-#EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?logo1=https://cdn.livesoccertv.com/tt/images/teams/germany/logos/bayer-leverkusen.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/sevilla.png?q=65&w=100&color1=776f05&color2=740b0f" group-title="XYZ STREAMS",[🔴 LIVE 20:30 WIB] Bayer Leverkusen vs Sevilla (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/brighton-hove-albion.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/italy/logos/as-roma.png?q=65&w=100&color2=75450d" group-title="XYZ STREAMS",[🔴 LIVE 21:00 WIB] Brighton & Hove Albion vs Roma (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
