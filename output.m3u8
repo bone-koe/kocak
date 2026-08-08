@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Updated: 08/09/2026, 02:47 AM WIB
+# Last Updated: 08/09/2026, 03:03 AM WIB
 # Mode: CDP Deep Network Interception
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp981gk4S-0SZf8PmuXDcdAtAyA9Xx35lMuNdW-vua2Q&s=10" group-title="XYZ STREAMS",[⏳ UPCOMING 04:00 WIB] UFC Fight Night: Gamrot vs. Salkilld (Belum Mulai)
@@ -27,10 +27,6 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?color1=57080f&logo1=https://cdn.livesoccertv.com/tt/images/teams/mexico/logos/toluca.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/united-states/logos/los-angeles.png?q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 10:10 WIB] Toluca vs Los Angeles FC (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fcbarcelona.com/photo-resources/2026/08/04/26db030f-673f-438d-a309-fbdd67838fdd/3200x2000_Horarios.png?width=3200&amp;amp;height=2000" group-title="XYZ STREAMS",[🔴 LIVE 01:00 WIB] Udinese vs Nottingham Forest vs FC Barcelona (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
