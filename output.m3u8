@@ -1,6 +1,10 @@
 #EXTM3U
-# Last Updated: 08/08/2026, 03:23 PM WIB
+# Last Updated: 08/08/2026, 04:06 PM WIB
 # Mode: CDP Deep Network Interception
+
+#EXTINF:-1 tvg-logo="https://media.zaiko.io/zaiko/w_1200/1_4b3u7pmcdpcxp2cm7ivfd" group-title="XYZ STREAMS",[🔴 LIVE 15:00 WIB] ONE SAMURAI 2 (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?logo1=https://cdn.livesoccertv.com/tt/images/teams/italy/logos/juventus.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/italy/logos/inter-milan.png?q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 18:00 WIB] Juventus vs Internazionale (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
