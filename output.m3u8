@@ -1,4 +1,36 @@
 #EXTM3U
-# Last Updated: 08/09/2026, 11:17 PM WIB
+# Last Updated: 08/09/2026, 11:55 PM WIB
 # Mode: CDP Deep Network Interception
+
+#EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?color1=&color2=20284d&logo1=https://cdn.livesoccertv.com/tt/images/teams/united-states/logos/seattle-sounders.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/mexico/logos/queretaro.png?q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 02:30 WIB] Seattle Sounders FC vs Querétaro (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?color2=650e0c&logo1=https://cdn.livesoccertv.com/tt/images/teams/united-states/logos/philadelphia-union.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/mexico/logos/necaxa.png?q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 06:30 WIB] Philadelphia Union vs Necaxa (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?color1=61070c&logo1=https://cdn.livesoccertv.com/tt/images/teams/mexico/logos/cruz-azul.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/united-states/logos/new-york-city.png?q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 06:30 WIB] Cruz Azul vs New York City (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?color2=38311b&logo1=https://cdn.livesoccertv.com/tt/images/teams/united-states/logos/nashville-sc.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/mexico/logos/atletico-san-luis.png?q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 07:00 WIB] Nashville SC vs Atlético San Luis (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?color1=634602&color2=032e14&logo1=https://cdn.livesoccertv.com/tt/images/teams/united-states/logos/chicago-fire.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/mexico/logos/santos-laguna.png?q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 07:00 WIB] Chicago Fire vs Santos Laguna (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?logo1=https://cdn.livesoccertv.com/tt/images/teams/united-states/logos/austin.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/mexico/logos/puebla.png?q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 08:00 WIB] Austin vs Puebla (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?color2=4c080a&logo1=https://cdn.livesoccertv.com/tt/images/teams/united-states/logos/san-diego.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/mexico/logos/tijuana.png?q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 09:00 WIB] San Diego vs Tijuana (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?color1=0b1023&logo1=https://cdn.livesoccertv.com/tt/images/teams/mexico/logos/america.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/united-states/logos/portland-timbers.png?q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 09:15 WIB] América vs Portland Timbers (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
