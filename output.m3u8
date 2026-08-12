@@ -1,14 +1,6 @@
 #EXTM3U
-# Last Updated: 08/13/2026, 03:04 AM WIB
+# Last Updated: 08/13/2026, 03:56 AM WIB
 # Mode: CDP Deep Network Interception
-
-#EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/arsenal.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/italy/logos/como.png&color1=EF0107&color2=0053A0&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 01:30 WIB] Arsenal vs Como (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/leeds-united.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/manchester-united.png&color1=1D428A&color2=DA291C&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 01:30 WIB] Leeds United vs Manchester United (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?logo1=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/deportivo-la-coruna.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/real-madrid.png&color1=00539F&color2=FEBE10&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 02:00 WIB] Deportivo La Coruña vs Real Madrid (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
