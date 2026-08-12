@@ -1,32 +1,12 @@
 #EXTM3U
-# Last Updated: 08/12/2026, 07:45 AM WIB
+# Last Updated: 08/12/2026, 10:11 AM WIB
 # Mode: CDP Deep Network Interception
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlvbWAARBtEi9FfUxIoGe5ZtHcCF13HvYCzvWt6735Rw&s=10" group-title="XYZ STREAMS",[🔴 LIVE 06:00 WIB] Dana White's Contender Series (Belum Mulai)
+#EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?logo1=https://cdn.livesoccertv.com/tt/images/teams/united-states/logos/real-salt-lake.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/mexico/logos/juarez.png&color1=B30838&color2=00A13A&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 08:30 WIB] Real Salt Lake vs Juárez (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?logo1=https://cdn.livesoccertv.com/tt/images/teams/united-states/logos/columbus-crew.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/mexico/logos/pumas-unam.png&color1=FFF200&color2=002147&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 06:30 WIB] Columbus Crew vs Pumas UNAM (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?logo1=https://cdn.livesoccertv.com/tt/images/teams/united-states/logos/charlotte.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/mexico/logos/pachuca.png&color1=0085CA&color2=003A70&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 06:30 WIB] Charlotte vs Pachuca (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?logo1=https://cdn.livesoccertv.com/tt/images/teams/united-states/logos/fc-cincinnati.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/mexico/logos/atlas.png&color1=F05323&color2=C5281C&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 07:00 WIB] Cincinnati vs Atlas (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?logo1=https://cdn.livesoccertv.com/tt/images/teams/united-states/logos/minnesota-united.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/mexico/logos/atlante.png&color1=8CD2F4&color2=9E1B32&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 07:30 WIB] Minnesota United vs Atlante (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?logo1=https://cdn.livesoccertv.com/tt/images/teams/united-states/logos/real-salt-lake.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/mexico/logos/juarez.png&color1=B30838&color2=00A13A&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 08:30 WIB] Real Salt Lake vs Juárez (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?logo1=https://cdn.livesoccertv.com/tt/images/teams/mexico/logos/tigres-uanl.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/canada/logos/vancouver-whitecaps.png&color1=FFB612&color2=00245E&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 09:00 WIB] Tigres UANL vs Vancouver Whitecaps (Belum Mulai)
+#EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?logo1=https://cdn.livesoccertv.com/tt/images/teams/mexico/logos/tigres-uanl.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/canada/logos/vancouver-whitecaps.png&color1=FFB612&color2=00245E&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 09:00 WIB] Tigres UANL vs Vancouver Whitecaps (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
