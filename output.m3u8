@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Updated: 08/14/2026, 06:32 AM WIB
+# Last Updated: 08/14/2026, 07:10 AM WIB
 # Mode: CDP Deep Network Interception
 
 #EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?logo1=https://cdn.livesoccertv.com/tt/images/teams/united-states/logos/philadelphia-union.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/mexico/logos/santos-laguna.png&color1=072B5C&color2=00763C&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 06:00 WIB] Philadelphia Union vs Santos Laguna (Belum Mulai)
@@ -34,11 +34,11 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/ari.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/lv.png&color1=97233F&color2=000000&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 07:00 WIB] Cardinals vs Raiders (Belum Mulai)
+#EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/ari.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/lv.png&color1=97233F&color2=000000&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 07:00 WIB] Cardinals vs Raiders (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/lac.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/hou.png&color1=0080C6&color2=03202F&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 07:00 WIB] Chargers vs Texans (Belum Mulai)
+#EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/lac.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/hou.png&color1=0080C6&color2=03202F&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 07:00 WIB] Chargers vs Texans (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
