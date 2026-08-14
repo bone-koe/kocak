@@ -1,6 +1,10 @@
 #EXTM3U
-# Last Updated: 08/15/2026, 12:58 AM WIB
+# Last Updated: 08/15/2026, 01:46 AM WIB
 # Mode: CDP Deep Network Interception
+
+#EXTINF:-1 tvg-logo="https://wwwimage-us.pplusstatic.com/thumbnails/photos/w370-q80/channel/80d10fc1-5919-407e-a303-b9f1fddbff99/EFL_CHAMP_THMB_27_WolverhamptonWanders_Main_BlackburnRovers_Main_xlagp.jpg" group-title="XYZ STREAMS",[⏳ UPCOMING 02:00 WIB] Wolverhampton Wanderers vs Blackburn Rovers (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/atl.png&color1=FB4F14&color2=A71930&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 06:00 WIB] Broncos vs Falcons (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
