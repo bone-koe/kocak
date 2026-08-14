@@ -1,6 +1,22 @@
 #EXTM3U
-# Last Updated: 08/15/2026, 03:06 AM WIB
+# Last Updated: 08/15/2026, 03:39 AM WIB
 # Mode: CDP Deep Network Interception
+
+#EXTINF:-1 tvg-logo="https://img.dge-prod.dicelaboratory.com/1920x1080/2026/08/11133329-yfrgw6rw3mk568xj.png?ts=1786739319889" group-title="XYZ STREAMS",[⏳ UPCOMING 07:00 WIB] Cage Fury FC 159 (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.dge-prod.dicelaboratory.com/350x197/2026/08/11133659-tnibkpzik5ww15ls.jpg" group-title="XYZ STREAMS",[⏳ UPCOMING 08:00 WIB] Fury FC 123 (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/onefc/image/upload/f_auto,c_limit,w_3840,q_auto/v1783501451/event/a485c5fd-b608-4364-8c29-bedf2d923df5.jpg" group-title="XYZ STREAMS",[⏳ UPCOMING 08:00 WIB] ONE Fight Night 46 (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.dge-prod.dicelaboratory.com/350x197/2026/08/13155915-tskseop8xhaeis05.jpg" group-title="XYZ STREAMS",[⏳ UPCOMING 10:00 WIB] LUX 062 (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.xfinitymobilearena.com/assets/img/760x460-48528a5ca4.png" group-title="XYZ STREAMS",[⏳ UPCOMING 04:30 WIB] UFC 330: Makhachev vs. Machado Garry (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
