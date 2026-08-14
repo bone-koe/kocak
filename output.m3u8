@@ -1,24 +1,20 @@
 #EXTM3U
-# Last Updated: 08/14/2026, 09:46 AM WIB
+# Last Updated: 08/14/2026, 11:29 AM WIB
 # Mode: CDP Deep Network Interception
 
-#EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?logo1=https://cdn.livesoccertv.com/tt/images/teams/mexico/logos/cruz-azul.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/united-states/logos/chicago-fire.png&color1=003B7C&color2=FF0000&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 08:00 WIB] Cruz Azul vs Chicago Fire (Belum Mulai)
+#EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?logo1=https://cdn.livesoccertv.com/tt/images/teams/france/logos/olympique-marseille.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/atletico-madrid.png&color1=009DDC&color2=CB3524&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 22:30 WIB] Olympique Marseille vs Atlético Madrid (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?logo1=https://cdn.livesoccertv.com/tt/images/teams/united-states/logos/portland-timbers.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/mexico/logos/tijuana.png&color1=00482B&color2=E31837&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 09:30 WIB] Portland Timbers vs Tijuana (Belum Mulai)
+#EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/atl.png&color1=FB4F14&color2=A71930&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 06:00 WIB] Broncos vs Falcons (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/ari.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/lv.png&color1=97233F&color2=000000&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 07:00 WIB] Cardinals vs Raiders (Belum Mulai)
+#EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/tb.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png&color1=D50A0A&color2=125740&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 06:00 WIB] Buccaneers vs Jets (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/lac.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/hou.png&color1=0080C6&color2=03202F&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 07:00 WIB] Chargers vs Texans (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/ten.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/sf.png&color1=4B92DB&color2=AA0000&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 08:00 WIB] Titans vs 49ers (Belum Mulai)
+#EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/mia.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png&color1=008E97&color2=5A1414&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 06:00 WIB] Dolphins vs Commanders (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
