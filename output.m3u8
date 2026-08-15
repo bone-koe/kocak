@@ -1,12 +1,8 @@
 #EXTM3U
-# Last Updated: 08/15/2026, 11:46 PM WIB
+# Last Updated: 08/16/2026, 12:00 AM WIB
 # Mode: CDP Deep Network Interception
 
 #EXTINF:-1 tvg-logo="https://www.xfinitymobilearena.com/assets/img/760x460-48528a5ca4.png" group-title="XYZ STREAMS",[⏳ UPCOMING 04:30 WIB] UFC 330: Makhachev vs. Machado Garry (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?logo1=https://cdn.livesoccertv.com/tt/images/teams/germany/logos/borussia-dortmund.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/italy/logos/roma.png&color1=FDE100&color2=8E1F2F&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 22:30 WIB] Borussia Dortmund vs Roma (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
@@ -22,15 +18,15 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/car.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/buf.png&color1=0085CA&color2=00338D&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 24:00 WIB] Carolina vs Buffalo (Belum Mulai)
+#EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/car.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/buf.png&color1=0085CA&color2=00338D&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 24:00 WIB] Carolina vs Buffalo (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/cle.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/chi.png&color1=311D00&color2=0B162A&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 24:00 WIB] Cleveland vs Chicago (Belum Mulai)
+#EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/cle.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/chi.png&color1=311D00&color2=0B162A&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 24:00 WIB] Cleveland vs Chicago (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/min.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png&color1=4F2683&color2=0B2265&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 24:00 WIB] Minnesota vs New York (Belum Mulai)
+#EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/min.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png&color1=4F2683&color2=0B2265&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 24:00 WIB] Minnesota vs New York (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
