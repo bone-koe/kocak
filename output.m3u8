@@ -1,16 +1,16 @@
 #EXTM3U
-# Last Updated: 08/15/2026, 07:00 AM WIB
+# Last Updated: 08/15/2026, 08:12 AM WIB
 # Mode: CDP Deep Network Interception
 
 #EXTINF:-1 tvg-logo="https://img.dge-prod.dicelaboratory.com/1920x1080/2026/08/11133329-yfrgw6rw3mk568xj.png?ts=1786739319889" group-title="XYZ STREAMS",[🔴 LIVE 07:00 WIB] Cage Fury FC 159 (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.dge-prod.dicelaboratory.com/350x197/2026/08/11133659-tnibkpzik5ww15ls.jpg" group-title="XYZ STREAMS",[⏳ UPCOMING 08:00 WIB] Fury FC 123 (Belum Mulai)
+#EXTINF:-1 tvg-logo="https://img.dge-prod.dicelaboratory.com/350x197/2026/08/11133659-tnibkpzik5ww15ls.jpg" group-title="XYZ STREAMS",[🔴 LIVE 08:00 WIB] Fury FC 123 (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
-#EXTINF:-1 tvg-logo="https://res.cloudinary.com/onefc/image/upload/f_auto,c_limit,w_3840,q_auto/v1783501451/event/a485c5fd-b608-4364-8c29-bedf2d923df5.jpg" group-title="XYZ STREAMS",[⏳ UPCOMING 08:00 WIB] ONE Fight Night 46 (Belum Mulai)
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/onefc/image/upload/f_auto,c_limit,w_3840,q_auto/v1783501451/event/a485c5fd-b608-4364-8c29-bedf2d923df5.jpg" group-title="XYZ STREAMS",[🔴 LIVE 08:00 WIB] ONE Fight Night 46 (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
@@ -19,18 +19,6 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.xfinitymobilearena.com/assets/img/760x460-48528a5ca4.png" group-title="XYZ STREAMS",[⏳ UPCOMING 04:30 WIB] UFC 330: Makhachev vs. Machado Garry (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/atl.png&color1=FB4F14&color2=A71930&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 06:00 WIB] Broncos vs Falcons (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/tb.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png&color1=D50A0A&color2=125740&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 06:00 WIB] Buccaneers vs Jets (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/mia.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png&color1=008E97&color2=5A1414&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 06:00 WIB] Dolphins vs Commanders (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
