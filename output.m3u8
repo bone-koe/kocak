@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Updated: 08/16/2026, 02:56 AM WIB
+# Last Updated: 08/16/2026, 03:09 AM WIB
 # Mode: CDP Deep Network Interception
 
 #EXTINF:-1 tvg-logo="https://www.xfinitymobilearena.com/assets/img/760x460-48528a5ca4.png" group-title="XYZ STREAMS",[⏳ UPCOMING 04:30 WIB] UFC 330: Makhachev vs. Machado Garry (Belum Mulai)
@@ -10,11 +10,11 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/lar.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/kc.png&color1=003594&color2=E31837&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 03:00 WIB] Los Angeles vs Kansas City (Belum Mulai)
+#EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/lar.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/kc.png&color1=003594&color2=E31837&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 03:00 WIB] Los Angeles vs Kansas City (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/jax.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/no.png&color1=006778&color2=D3BC8D&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 03:00 WIB] Jacksonville vs New Orleans (Belum Mulai)
+#EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/jax.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/no.png&color1=006778&color2=D3BC8D&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 03:00 WIB] Jacksonville vs New Orleans (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
