@@ -1,12 +1,12 @@
 #EXTM3U
-# Last Updated: 08/16/2026, 05:58 AM WIB
+# Last Updated: 08/16/2026, 06:15 AM WIB
 # Mode: CDP Deep Network Interception
 
 #EXTINF:-1 tvg-logo="https://www.xfinitymobilearena.com/assets/img/760x460-48528a5ca4.png" group-title="XYZ STREAMS",[🔴 LIVE 04:30 WIB] UFC 330: Makhachev vs. Machado Garry (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/phi.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/bal.png&color1=004C54&color2=241773&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 06:00 WIB] Philadelphia vs Baltimore (Belum Mulai)
+#EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/phi.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/bal.png&color1=004C54&color2=241773&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 06:00 WIB] Philadelphia vs Baltimore (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
