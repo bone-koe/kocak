@@ -1,4 +1,8 @@
 #EXTM3U
-# Last Updated: 08/18/2026, 12:36 AM WIB
+# Last Updated: 08/18/2026, 12:58 AM WIB
 # Mode: CDP Deep Network Interception
+
+#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/c200a233-9bc9-46d8-beb4-4341030d575d/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608171511" group-title="XYZ STREAMS",[⏳ UPCOMING 02:00 WIB] Deportivo A Coruña vs. Elche CF (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
