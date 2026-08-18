@@ -1,16 +1,4 @@
 #EXTM3U
-# Last Updated: 08/19/2026, 03:54 AM WIB
+# Last Updated: 08/19/2026, 04:14 AM WIB
 # Mode: CDP Deep Network Interception
-
-#EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?logo1=https://cdn.livesoccertv.com/tt/images/teams/croatia/logos/dinamo-zagreb.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/norway/logos/viking.png&color1=0000FF&color2=003366&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 02:00 WIB] Dinamo Zagreb vs Viking (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?logo1=https://cdn.livesoccertv.com/tt/images/teams/turkey/logos/fenerbahce.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/france/logos/lyon.png&color1=002D62&color2=DA291C&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 02:00 WIB] Fenerbahçe vs Olympique Lyonnais (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?logo1=https://cdn.livesoccertv.com/tt/images/teams/bulgaria/logos/levski-sofia.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/greece/logos/aek-athens.png&color1=002B49&color2=FFCC00&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 02:00 WIB] Levski Sofia vs AEK Athens (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
