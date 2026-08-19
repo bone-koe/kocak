@@ -1,8 +1,8 @@
 #EXTM3U
-# Last Updated: 08/20/2026, 12:53 AM WIB
+# Last Updated: 08/20/2026, 01:13 AM WIB
 # Mode: CDP Deep Network Interception
 
-#EXTINF:-1 tvg-logo="https://images.dlhd.net/?logo1=https://cdn.livesoccertv.com/images/teams/spain/logos/barcelona.png&logo2=https://cdn.livesoccertv.com/images/teams/egypt/logos/al-ahly.png&color1=A50044&color2=ED1C24&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 01:00 WIB] Barcelona vs Al Ahly (Belum Mulai)
+#EXTINF:-1 tvg-logo="https://images.dlhd.net/?logo1=https://cdn.livesoccertv.com/images/teams/spain/logos/barcelona.png&logo2=https://cdn.livesoccertv.com/images/teams/egypt/logos/al-ahly.png&color1=A50044&color2=ED1C24&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 01:00 WIB] Barcelona vs Al Ahly (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
