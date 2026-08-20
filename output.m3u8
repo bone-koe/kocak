@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Updated: 08/20/2026, 06:52 AM WIB
+# Last Updated: 08/20/2026, 07:25 AM WIB
 # Mode: CDP Deep Network Interception
 
 #EXTINF:-1 tvg-logo="https://images.dlhd.net/?logo1=https://cdn.livesoccertv.com/tt/images/teams/united-states/logos/columbus-crew.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/canada/logos/montreal-impact.png&color1=FFF200&color2=000000&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 06:30 WIB] Columbus Crew vs CF Montréal (Belum Mulai)
@@ -30,7 +30,7 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.dlhd.net/?logo1=https://cdn.livesoccertv.com/tt/images/teams/united-states/logos/sporting-kansas-city.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/united-states/logos/st-louis-city.png&color1=002B49&color2=E4002B&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 07:00 WIB] Sporting KC vs St. Louis City (Belum Mulai)
+#EXTINF:-1 tvg-logo="https://images.dlhd.net/?logo1=https://cdn.livesoccertv.com/tt/images/teams/united-states/logos/sporting-kansas-city.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/united-states/logos/st-louis-city.png&color1=002B49&color2=E4002B&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 07:00 WIB] Sporting KC vs St. Louis City (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
