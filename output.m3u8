@@ -1,4 +1,20 @@
 #EXTM3U
-# Last Updated: 08/20/2026, 12:49 PM WIB
+# Last Updated: 08/20/2026, 01:17 PM WIB
 # Mode: CDP Deep Network Interception
+
+#EXTINF:-1 tvg-logo="https://images.dlhd.net/?logo1=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/rayo-vallecano.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/deportivo-alaves.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/8-primera-division.png&color1=E3001B&color2=0053A0&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 02:00 WIB] Rayo Vallecano vs Deportivo Alavés (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.dlhd.net/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/arsenal.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/coventry-city.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=EF0107&color2=002D62&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 02:00 WIB] Arsenal vs Coventry City (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.dlhd.net/?logo1=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/real-betis.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/real-sociedad.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/8-primera-division.png&color1=0BB363&color2=0066B3&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 02:00 WIB] Real Betis vs Real Sociedad (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.dlhd.net/?logo1=https://cdn.livesoccertv.com/tt/images/teams/france/logos/olympique-marseille.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/france/logos/strasbourg.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/10-ligue-1.png&color1=009DDC&color2=002D62&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 01:45 WIB] Olympique Marseille vs Strasbourg (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
