@@ -1,18 +1,6 @@
 #EXTM3U
-# Last Updated: 08/20/2026, 09:47 AM WIB
+# Last Updated: 08/20/2026, 10:30 AM WIB
 # Mode: CDP Deep Network Interception
-
-#EXTINF:-1 tvg-logo="https://images.dlhd.net/?logo1=https://cdn.livesoccertv.com/tt/images/teams/united-states/logos/colorado-rapids.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/united-states/logos/los-angeles-fc.png&color1=862633&color2=000000&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 08:30 WIB] Colorado Rapids vs Los Angeles FC (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.dlhd.net/?logo1=https://cdn.livesoccertv.com/tt/images/teams/united-states/logos/seattle-sounders.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/united-states/logos/austin.png&color1=5D9732&color2=00B140&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 08:30 WIB] Seattle Sounders FC vs Austin (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.dlhd.net/?logo1=https://cdn.livesoccertv.com/tt/images/teams/united-states/logos/real-salt-lake.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/united-states/logos/fc-dallas.png&color1=B30838&color2=E81F3E&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 08:30 WIB] Real Salt Lake vs Dallas (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.dlhd.net/?logo1=https://cdn.livesoccertv.com/tt/images/teams/united-states/logos/la-galaxy.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/united-states/logos/san-jose-earthquakes.png&color1=00245E&color2=006747&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 09:30 WIB] LA Galaxy vs SJ Earthquakes (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
