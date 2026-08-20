@@ -1,6 +1,14 @@
 #EXTM3U
-# Last Updated: 08/21/2026, 12:45 AM WIB
+# Last Updated: 08/21/2026, 01:03 AM WIB
 # Mode: CDP Deep Network Interception
+
+#EXTINF:-1 tvg-logo="https://images.dlhd.net/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/lv.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/hou.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=000000&color2=A71930&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 07:00 WIB] Las Vegas Raiders vs Houston Texans (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.dlhd.net/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/sf.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/lac.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=AA0000&color2=0080C6&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 09:00 WIB] San Francisco 49ers vs Los Angeles Chargers (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.dlhd.net/?logo1=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/rayo-vallecano.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/deportivo-alaves.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/8-primera-division.png&color1=E3001B&color2=0053A0&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 02:00 WIB] Rayo Vallecano vs Deportivo Alavés (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
