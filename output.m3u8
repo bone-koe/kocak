@@ -1,16 +1,4 @@
 #EXTM3U
-# Last Updated: 08/20/2026, 11:11 AM WIB
+# Last Updated: 08/20/2026, 11:53 AM WIB
 # Mode: CDP Deep Network Interception
-
-#EXTINF:-1 tvg-logo="https://images.dlhd.net/?logo1=https://cdn.livesoccertv.com/tt/images/teams/united-states/logos/la-galaxy.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/united-states/logos/san-jose-earthquakes.png&color1=00245E&color2=006747&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 09:30 WIB] LA Galaxy vs SJ Earthquakes (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.dlhd.net/?logo1=https://cdn.livesoccertv.com/images/teams/united-states/logos/portland-timbers.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/united-states/logos/san-diego.png&color1=00482B&color2=00B5E2&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 09:30 WIB] Portland Timbers vs San Diego (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.dlhd.net/?logo1=https://cdn.livesoccertv.com/tt/images/teams/canada/logos/vancouver-whitecaps.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/united-states/logos/houston-dynamo.png&color1=00245E&color2=F05323&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 09:30 WIB] Vancouver Whitecaps vs Houston Dynamo (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
