@@ -1,52 +1,24 @@
 #EXTM3U
-# Last Updated: 08/20/2026, 07:25 AM WIB
+# Last Updated: 08/20/2026, 08:56 AM WIB
 # Mode: CDP Deep Network Interception
-
-#EXTINF:-1 tvg-logo="https://images.dlhd.net/?logo1=https://cdn.livesoccertv.com/tt/images/teams/united-states/logos/columbus-crew.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/canada/logos/montreal-impact.png&color1=FFF200&color2=000000&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 06:30 WIB] Columbus Crew vs CF Montréal (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.dlhd.net/?logo1=https://cdn.livesoccertv.com/tt/images/teams/united-states/logos/dc-united.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/united-states/logos/new-england-revolution.png&color1=000000&color2=002D62&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 06:30 WIB] DC United vs New England (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.dlhd.net/?logo1=https://cdn.livesoccertv.com/tt/images/teams/united-states/logos/fc-cincinnati.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/united-states/logos/new-york-city.png&color1=F05323&color2=6CACE4&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 06:30 WIB] Cincinnati vs New York City (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.dlhd.net/?logo1=https://cdn.livesoccertv.com/tt/images/teams/united-states/logos/new-york-red-bulls.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/united-states/logos/nashville-sc.png&color1=ED1B24&color2=ECE83A&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 06:30 WIB] New York RB vs Nashville SC (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.dlhd.net/?logo1=https://cdn.livesoccertv.com/tt/images/teams/united-states/logos/orlando-city.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/united-states/logos/chicago-fire.png&color1=612B9B&color2=FF0000&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 06:30 WIB] Orlando City SC vs Chicago Fire (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.dlhd.net/?logo1=https://cdn.livesoccertv.com/tt/images/teams/united-states/logos/philadelphia-union.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/united-states/logos/inter-miami.png&color1=072B5C&color2=F7B5CD&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 06:30 WIB] Philadelphia Union vs Inter Miami (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.dlhd.net/?logo1=https://cdn.livesoccertv.com/tt/images/teams/canada/logos/toronto-fc.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/united-states/logos/charlotte.png&color1=C8102E&color2=0085CA&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 06:30 WIB] Toronto FC vs Charlotte (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.dlhd.net/?logo1=https://cdn.livesoccertv.com/tt/images/teams/united-states/logos/sporting-kansas-city.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/united-states/logos/st-louis-city.png&color1=002B49&color2=E4002B&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 07:00 WIB] Sporting KC vs St. Louis City (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.dlhd.net/?logo1=https://cdn.livesoccertv.com/tt/images/teams/united-states/logos/minnesota-united.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/united-states/logos/atlanta-united.png&color1=8CD2F4&color2=960A2C&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 07:30 WIB] Minnesota United vs Atlanta United (Belum Mulai)
+#EXTINF:-1 tvg-logo="https://images.dlhd.net/?logo1=https://cdn.livesoccertv.com/tt/images/teams/united-states/logos/minnesota-united.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/united-states/logos/atlanta-united.png&color1=8CD2F4&color2=960A2C&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 07:30 WIB] Minnesota United vs Atlanta United (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.dlhd.net/?logo1=https://cdn.livesoccertv.com/tt/images/teams/united-states/logos/colorado-rapids.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/united-states/logos/los-angeles-fc.png&color1=862633&color2=000000&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 08:30 WIB] Colorado Rapids vs Los Angeles FC (Belum Mulai)
+#EXTINF:-1 tvg-logo="https://images.dlhd.net/?logo1=https://cdn.livesoccertv.com/tt/images/teams/united-states/logos/colorado-rapids.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/united-states/logos/los-angeles-fc.png&color1=862633&color2=000000&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 08:30 WIB] Colorado Rapids vs Los Angeles FC (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.dlhd.net/?logo1=https://cdn.livesoccertv.com/tt/images/teams/united-states/logos/seattle-sounders.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/united-states/logos/austin.png&color1=5D9732&color2=00B140&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 08:30 WIB] Seattle Sounders FC vs Austin (Belum Mulai)
+#EXTINF:-1 tvg-logo="https://images.dlhd.net/?logo1=https://cdn.livesoccertv.com/tt/images/teams/united-states/logos/seattle-sounders.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/united-states/logos/austin.png&color1=5D9732&color2=00B140&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 08:30 WIB] Seattle Sounders FC vs Austin (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.dlhd.net/?logo1=https://cdn.livesoccertv.com/tt/images/teams/united-states/logos/real-salt-lake.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/united-states/logos/fc-dallas.png&color1=B30838&color2=E81F3E&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 08:30 WIB] Real Salt Lake vs Dallas (Belum Mulai)
+#EXTINF:-1 tvg-logo="https://images.dlhd.net/?logo1=https://cdn.livesoccertv.com/tt/images/teams/united-states/logos/real-salt-lake.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/united-states/logos/fc-dallas.png&color1=B30838&color2=E81F3E&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 08:30 WIB] Real Salt Lake vs Dallas (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
