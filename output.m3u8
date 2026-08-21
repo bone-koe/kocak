@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Updated: 08/22/2026, 05:10 AM WIB
+# Last Updated: 08/22/2026, 05:41 AM WIB
 # Mode: CDP Deep Network Interception
 
 #EXTINF:-1 tvg-logo="https://images.dlhd.net/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/pit.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=125740&color2=FFB612&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 06:00 WIB] Jets vs Steelers (Belum Mulai)
@@ -11,6 +11,58 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.dlhd.net/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/gb.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=203731&color2=FB4F14&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 08:00 WIB] Packers vs Broncos (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.dlhd.net/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/hull-city.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/manchester-united.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=F5A100&color2=DA291C&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 18:30 WIB] Hull City vs Manchester United (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.dlhd.net/?logo1=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/athletic-club.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/sevilla.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/8-primera-division.png&color1=EE2737&color2=F43333&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 22:00 WIB] Athletic Club vs Sevilla (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.dlhd.net/?logo1=https://cdn.livesoccertv.com/tt/images/teams/france/logos/lens.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/france/logos/auxerre.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/10-ligue-1.png&color1=ED1C24&color2=002D62&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 22:15 WIB] Lens vs Auxerre (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.dlhd.net/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/everton.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/crystal-palace.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=003399&color2=1B458F&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 21:00 WIB] Everton vs Crystal Palace (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.dlhd.net/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/ipswich-town.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/sunderland.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=0000FF&color2=EB172B&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 21:00 WIB] Ipswich Town vs Sunderland (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.dlhd.net/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/nottingham-forest.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/leeds-united.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=DD0000&color2=1D428A&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 21:00 WIB] Nottingham Forest vs Leeds United (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.dlhd.net/?logo1=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/valencia.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/celta-de-vigo.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/8-primera-division.png&color1=FF6600&color2=8A2BE2&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 24:30 WIB] Valencia vs Celta de Vigo (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.dlhd.net/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/brentford.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/tottenham-hotspur.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=D20000&color2=132257&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 23:30 WIB] Brentford vs Tottenham Hotspur (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.dlhd.net/?logo1=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/espanyol.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/real-madrid.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/8-primera-division.png&color1=007791&color2=FEBE10&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 02:30 WIB] Espanyol vs Real Madrid (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.dlhd.net/?logo1=https://cdn.livesoccertv.com/tt/images/teams/france/logos/le-mans.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/france/logos/brest.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/10-ligue-1.png&color1=FF0000&color2=E2001A&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 01:45 WIB] Le Mans vs Brest (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.dlhd.net/?logo1=https://cdn.livesoccertv.com/tt/images/teams/france/logos/nice.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/france/logos/lorient.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/10-ligue-1.png&color1=000000&color2=F15A22&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 01:45 WIB] Nice vs Lorient (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.dlhd.net/?logo1=https://cdn.livesoccertv.com/tt/images/teams/france/logos/toulouse.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/france/logos/olympique-lyon.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/10-ligue-1.png&color1=582C83&color2=DA291C&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 01:45 WIB] Toulouse vs Olympique Lyonnais (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.dlhd.net/?logo1=https://cdn.livesoccertv.com/tt/images/teams/france/logos/troyes.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/france/logos/paris.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/10-ligue-1.png&color1=002D62&color2=00539F&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 01:45 WIB] Troyes vs Paris (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
