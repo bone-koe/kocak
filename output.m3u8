@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Updated: 08/22/2026, 04:56 AM WIB
+# Last Updated: 08/22/2026, 05:10 AM WIB
 # Mode: CDP Deep Network Interception
 
 #EXTINF:-1 tvg-logo="https://images.dlhd.net/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/pit.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=125740&color2=FFB612&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 06:00 WIB] Jets vs Steelers (Belum Mulai)
@@ -14,7 +14,7 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.dge-prod.dicelaboratory.com/350x197/2019/07/15/H5NgkxX1usjLKJOj-184003.jpg" group-title="XYZ STREAMS",[⏳ UPCOMING 05:00 WIB] Binson Kombat 9 (Belum Mulai)
+#EXTINF:-1 tvg-logo="https://img.dge-prod.dicelaboratory.com/350x197/2019/07/15/H5NgkxX1usjLKJOj-184003.jpg" group-title="XYZ STREAMS",[🔴 LIVE 05:00 WIB] Binson Kombat 9 (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
