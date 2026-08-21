@@ -1,10 +1,6 @@
 #EXTM3U
-# Last Updated: 08/21/2026, 10:12 AM WIB
+# Last Updated: 08/21/2026, 11:01 AM WIB
 # Mode: CDP Deep Network Interception
-
-#EXTINF:-1 tvg-logo="https://images.dlhd.net/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/sf.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/lac.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=AA0000&color2=0080C6&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 09:00 WIB] San Francisco 49ers vs Los Angeles Chargers (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.dlhd.net/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/arsenal.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/coventry-city.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=EF0107&color2=002D62&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 02:00 WIB] Arsenal vs Coventry City (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
