@@ -1,10 +1,6 @@
 #EXTM3U
-# Last Updated: 08/22/2026, 09:18 AM WIB
+# Last Updated: 08/22/2026, 10:09 AM WIB
 # Mode: CDP Deep Network Interception
-
-#EXTINF:-1 tvg-logo="https://images.dlhd.net/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/gb.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=203731&color2=FB4F14&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 08:00 WIB] Packers vs Broncos (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.dlhd.net/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/hull-city.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/manchester-united.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=F5A100&color2=DA291C&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 18:30 WIB] Hull City vs Manchester United (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -55,10 +51,6 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.dlhd.net/?logo1=https://cdn.livesoccertv.com/tt/images/teams/france/logos/troyes.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/france/logos/paris.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/10-ligue-1.png&color1=002D62&color2=00539F&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 01:45 WIB] Troyes vs Paris (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.dge-prod.dicelaboratory.com/350x197/2019/07/15/H5NgkxX1usjLKJOj-184003.jpg" group-title="XYZ STREAMS",[🔴 LIVE 05:00 WIB] Binson Kombat 9 (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
