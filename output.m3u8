@@ -1,10 +1,6 @@
 #EXTM3U
-# Last Updated: 08/24/2026, 04:08 AM WIB
+# Last Updated: 08/24/2026, 04:32 AM WIB
 # Mode: CDP Deep Network Interception
-
-#EXTINF:-1 tvg-logo="https://images.dlhd.net/?logo1=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/elche.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/barcelona.png&color1=006633&color2=A50044&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 02:30 WIB] Elche vs Barcelona (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.dlhd.net/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/sea.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/ten.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=01ff03&color2=1a405e" group-title="XYZ STREAMS",[⏳ UPCOMING 08:00 WIB] Seahawks vs Titans (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
