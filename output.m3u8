@@ -1,12 +1,12 @@
 #EXTM3U
-# Last Updated: 08/25/2026, 12:03 AM WIB
+# Last Updated: 08/25/2026, 12:38 AM WIB
 # Mode: CDP Deep Network Interception
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/italy/logos/bologna.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/italy/logos/lazio.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/39-serie-a.png&color1=1B2431&color2=87CEEB&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 24:30 WIB] Bologna vs Lazio (Belum Mulai)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/italy/logos/bologna.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/italy/logos/lazio.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/39-serie-a.png&color1=1B2431&color2=87CEEB&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 23:30 WIB] Bologna vs Lazio (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/osasuna.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/levante.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/8-primera-division.png&color1=D91A21&color2=002D62&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 01:30 WIB] Osasuna vs Levante (Belum Mulai)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/osasuna.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/levante.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/8-primera-division.png&color1=D91A21&color2=002D62&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 24:30 WIB] Osasuna vs Levante (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
@@ -14,11 +14,11 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/malaga.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/deportivo-la-coruna.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/8-primera-division.png&color1=0066CC&color2=0055A5&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 03:30 WIB] Málaga vs Deportivo La Coruña (Belum Mulai)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/italy/logos/roma.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/italy/logos/fiorentina.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/39-serie-a.png&color1=8B0000&color2=6A0DAD&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 01:45 WIB] Roma vs Fiorentina (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/italy/logos/roma.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/italy/logos/fiorentina.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/39-serie-a.png&color1=8B0000&color2=6A0DAD&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 03:45 WIB] Roma vs Fiorentina (Belum Mulai)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/malaga.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/deportivo-la-coruna.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/8-primera-division.png&color1=0066CC&color2=0055A5&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 02:30 WIB] Málaga vs Deportivo La Coruña (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
