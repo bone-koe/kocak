@@ -1,8 +1,8 @@
 #EXTM3U
-# Last Updated: 08/26/2026, 05:58 AM WIB
+# Last Updated: 08/26/2026, 06:20 AM WIB
 # Mode: CDP Deep Network Interception
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlvbWAARBtEi9FfUxIoGe5ZtHcCF13HvYCzvWt6735Rw&s=10" group-title="XYZ STREAMS",[⏳ UPCOMING 06:00 WIB] Dana White's Contender Series (Belum Mulai)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlvbWAARBtEi9FfUxIoGe5ZtHcCF13HvYCzvWt6735Rw&s=10" group-title="XYZ STREAMS",[🔴 LIVE 06:00 WIB] Dana White's Contender Series (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
