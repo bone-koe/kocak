@@ -1,24 +1,4 @@
 #EXTM3U
-# Last Updated: 08/27/2026, 01:31 AM WIB
+# Last Updated: 08/27/2026, 04:03 AM WIB
 # Mode: CDP Deep Network Interception
-
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/sem7z91787034757.jpg/medium" group-title="XYZ STREAMS",[⏳ UPCOMING 02:00 WIB] Celje vs Slovan Bratislava (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/bydetl1787034759.jpg/medium" group-title="XYZ STREAMS",[⏳ UPCOMING 02:00 WIB] AEK Athens vs Levski Sofia (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/9p4tku1787034758.jpg/medium" group-title="XYZ STREAMS",[⏳ UPCOMING 02:00 WIB] Olympique Lyonnais vs Fenerbahçe (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/6hfzhd1787034760.jpg/medium" group-title="XYZ STREAMS",[⏳ UPCOMING 02:00 WIB] Viking vs Dinamo Zagreb (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/real-madrid.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/real-sociedad.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/8-primera-division.png&color1=00529F&color2=006699&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 02:00 WIB] Real Madrid vs Real Sociedad (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
