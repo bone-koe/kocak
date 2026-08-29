@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Updated: 08/30/2026, 12:08 AM WIB
+# Last Updated: 08/30/2026, 02:41 AM WIB
 # Mode: CDP Deep Network Interception
 
 #EXTINF:-1 tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/1294/728/cfb-week-0-horizontal-1920x1080-1.png?ve=1&tl=1" group-title="XYZ STREAMS",[🔴 LIVE 23:00 WIB] College Football Week 0 (Belum Mulai)
@@ -11,10 +11,6 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/chi.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/ten.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0B162A&color2=4B92DB&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 05:00 WIB] Bears vs Titans (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/tottenham-hotspur.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/newcastle-united.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=132257&color2=241F20&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 23:30 WIB] Tottenham Hotspur vs Newcastle United (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
