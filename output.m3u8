@@ -1,12 +1,8 @@
 #EXTM3U
-# Last Updated: 09/06/2026, 02:23 AM WIB
+# Last Updated: 09/06/2026, 04:23 AM WIB
 # Mode: CDP Deep Network Interception
 
 #EXTINF:-1 tvg-logo="https://espnpressroom.com/wp-content/plugins/phastpress/phast.php?service=images&src=https%3A%2F%2Fespnpressroom.com%2Fwp-content%2Fuploads%2F18A284_CFB_LDW_5UP_FRI-SUN-1.png&cacheMarker=1788208290-293662&token=752f839b2942bc9a" group-title="XYZ STREAMS",[🔴 LIVE 23:00 WIB] College Football Week 1: Saturday (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Ofr1ceSIbj0/maxresdefault.jpg" group-title="XYZ STREAMS",[🔴 LIVE 24:30 WIB] UFC Fight Night (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
