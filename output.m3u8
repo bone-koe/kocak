@@ -1,24 +1,16 @@
 #EXTM3U
-# Last Updated: 09/06/2026, 10:54 PM WIB
+# Last Updated: 09/07/2026, 12:47 AM WIB
 # Mode: CDP Deep Network Interception
 
-#EXTINF:-1 tvg-logo="https://espnpressroom.com/wp-content/plugins/phastpress/phast.php?service=images&src=https%3A%2F%2Fespnpressroom.com%2Fwp-content%2Fuploads%2F18A284_CFB_LDW_5UP_FRI-SUN-1.png&cacheMarker=1788208290-293662&token=752f839b2942bc9a" group-title="XYZ STREAMS",[⏳ UPCOMING 23:00 WIB] College Football Week 1: Sunday (Belum Mulai)
+#EXTINF:-1 tvg-logo="https://espnpressroom.com/wp-content/plugins/phastpress/phast.php?service=images&src=https%3A%2F%2Fespnpressroom.com%2Fwp-content%2Fuploads%2F18A284_CFB_LDW_5UP_FRI-SUN-1.png&cacheMarker=1788208290-293662&token=752f839b2942bc9a" group-title="XYZ STREAMS",[🔴 LIVE 23:00 WIB] College Football Week 1: Sunday (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/valencia.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/barcelona.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/8-primera-division.png&color1=FF6600&color2=A50044&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 21:15 WIB] Valencia vs Barcelona (Belum Mulai)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/deportivo-alaves.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/osasuna.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/8-primera-division.png&color1=0066CC&color2=D91A21&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 23:30 WIB] Deportivo Alavés vs Osasuna (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/arsenal.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/chelsea.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=EF0107&color2=034694&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 22:30 WIB] Arsenal vs Chelsea (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/deportivo-alaves.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/osasuna.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/8-primera-division.png&color1=0066CC&color2=D91A21&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 23:30 WIB] Deportivo Alavés vs Osasuna (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/malaga.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/levante.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/8-primera-division.png&color1=0072CE&color2=002D62&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 23:30 WIB] Málaga vs Levante (Belum Mulai)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/malaga.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/levante.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/8-primera-division.png&color1=0072CE&color2=002D62&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 23:30 WIB] Málaga vs Levante (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
