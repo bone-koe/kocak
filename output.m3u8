@@ -1,24 +1,16 @@
 #EXTM3U
-# Last Updated: 09/07/2026, 12:47 AM WIB
+# Last Updated: 09/07/2026, 02:33 AM WIB
 # Mode: CDP Deep Network Interception
 
 #EXTINF:-1 tvg-logo="https://espnpressroom.com/wp-content/plugins/phastpress/phast.php?service=images&src=https%3A%2F%2Fespnpressroom.com%2Fwp-content%2Fuploads%2F18A284_CFB_LDW_5UP_FRI-SUN-1.png&cacheMarker=1788208290-293662&token=752f839b2942bc9a" group-title="XYZ STREAMS",[🔴 LIVE 23:00 WIB] College Football Week 1: Sunday (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/deportivo-alaves.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/osasuna.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/8-primera-division.png&color1=0066CC&color2=D91A21&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 23:30 WIB] Deportivo Alavés vs Osasuna (Belum Mulai)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/espanyol.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/sevilla.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/8-primera-division.png&color1=0066CC&color2=D71920&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 02:00 WIB] Espanyol vs Sevilla (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/malaga.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/levante.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/8-primera-division.png&color1=0072CE&color2=002D62&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 23:30 WIB] Málaga vs Levante (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/espanyol.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/sevilla.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/8-primera-division.png&color1=0066CC&color2=D71920&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 02:00 WIB] Espanyol vs Sevilla (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="https://imca.tv/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNkYyQ0E9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--16b0d0376508d9156ec9f8ee1664a517ae351139/d1397e6f447f0f802f6e50700c251f60.png" group-title="XYZ STREAMS",[⏳ UPCOMING 02:00 WIB] Boone Speedway (Belum Mulai)
+#EXTINF:-1 tvg-logo="https://imca.tv/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNkYyQ0E9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--16b0d0376508d9156ec9f8ee1664a517ae351139/d1397e6f447f0f802f6e50700c251f60.png" group-title="XYZ STREAMS",[🔴 LIVE 02:00 WIB] Boone Speedway (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
