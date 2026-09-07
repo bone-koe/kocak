@@ -1,14 +1,6 @@
 #EXTM3U
-# Last Updated: 09/07/2026, 07:54 AM WIB
+# Last Updated: 09/07/2026, 12:18 PM WIB
 # Mode: CDP Deep Network Interception
-
-#EXTINF:-1 tvg-logo="https://espnpressroom.com/wp-content/plugins/phastpress/phast.php?service=images&src=https%3A%2F%2Fespnpressroom.com%2Fwp-content%2Fuploads%2F18A284_CFB_LDW_5UP_FRI-SUN-1.png&cacheMarker=1788208290-293662&token=752f839b2942bc9a" group-title="XYZ STREAMS",[🔴 LIVE 23:00 WIB] College Football Week 1: Sunday (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="https://imca.tv/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNkYyQ0E9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--16b0d0376508d9156ec9f8ee1664a517ae351139/d1397e6f447f0f802f6e50700c251f60.png" group-title="XYZ STREAMS",[🔴 LIVE 02:00 WIB] Boone Speedway (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
 #EXTINF:-1 tvg-logo="https://images2.9c9media.com/image_asset/2026_8_26_a1acc34b-a3fd-418c-bf5d-a9549b090a84_jpg_1920x1080.jpg" group-title="XYZ STREAMS",[🔴 LIVE 22:30 WIB] All Feeds & Courts (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
