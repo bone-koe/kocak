@@ -1,20 +1,28 @@
 #EXTM3U
-# Last Updated: 09/09/2026, 02:58 AM WIB
+# Last Updated: 09/09/2026, 05:17 AM WIB
 # Mode: CDP Deep Network Interception
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/france/logos/lille.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/real-betis.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/50-uefa-champions-league.png&color1=E03A3E&color2=00954C&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 02:00 WIB] Lille vs Real Betis (Belum Mulai)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/germany/logos/stuttgart.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/norway/logos/viking.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/50-uefa-champions-league.png&color1=E32219&color2=003399&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 23:45 WIB] Stuttgart vs Viking (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/portugal/logos/porto.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/manchester-city.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/50-uefa-champions-league.png&color1=004A99&color2=6CABDD&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 02:00 WIB] Porto vs Manchester City (Belum Mulai)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/barcelona.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/netherlands/logos/feyenoord.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/50-uefa-champions-league.png&color1=A50044&color2=CC0000&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 23:45 WIB] Barcelona vs Feyenoord (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/germany/logos/borussia-dortmund.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/villarreal.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/50-uefa-champions-league.png&color1=FDE100&color2=FFE100&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 02:00 WIB] Borussia Dortmund vs Villarreal (Belum Mulai)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/portugal/logos/sporting-cp.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/turkey/logos/galatasaray.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/50-uefa-champions-league.png&color1=008000&color2=A89968&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 02:00 WIB] Sporting CP vs Galatasaray (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/real-madrid.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/italy/logos/inter-milan.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/50-uefa-champions-league.png&color1=00529F&color2=000080&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 02:00 WIB] Real Madrid vs Internazionale (Belum Mulai)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/france/logos/psg.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/slovakia/logos/slovan-bratislava.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/50-uefa-champions-league.png&color1=004170&color2=002B49&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 02:00 WIB] PSG vs Slovan Bratislava (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/italy/logos/napoli.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/arsenal.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/50-uefa-champions-league.png&color1=1A98FF&color2=EF0107&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 02:00 WIB] Napoli vs Arsenal (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/liverpool.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/atletico-madrid.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/50-uefa-champions-league.png&color1=C8102E&color2=CB3524&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 02:00 WIB] Liverpool vs Atlético Madrid (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
