@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Updated: 09/09/2026, 07:17 AM WIB
+# Last Updated: 09/09/2026, 11:46 AM WIB
 # Mode: CDP Deep Network Interception
 
 #EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/germany/logos/stuttgart.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/norway/logos/viking.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/50-uefa-champions-league.png&color1=E32219&color2=003399&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 23:45 WIB] Stuttgart vs Viking (Belum Mulai)
@@ -23,6 +23,10 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/liverpool.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/atletico-madrid.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/50-uefa-champions-league.png&color1=C8102E&color2=CB3524&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 02:00 WIB] Liverpool vs Atlético Madrid (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://riivet-assets.b-cdn.net/u796gq6bctzzvog4wgxexk08k2pm" group-title="XYZ STREAMS",[⏳ UPCOMING 02:00 WIB] Boone Speedway (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
