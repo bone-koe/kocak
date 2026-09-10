@@ -1,8 +1,8 @@
 #EXTM3U
-# Last Updated: 09/10/2026, 01:19 PM WIB
+# Last Updated: 09/10/2026, 06:26 PM WIB
 # Mode: CDP Deep Network Interception
 
-#EXTINF:-1 tvg-logo="https://vhx.imgix.net/rizintv2/assets/e13b2f34-2ba7-42ea-ac74-99e5ce6fb7e8.png?auto=format%2Ccompress&fit=crop&h=720&w=1280" group-title="XYZ STREAMS",[⏳ UPCOMING 15:00 WIB] SUPER RIZIN.5 (Belum Mulai)
+#EXTINF:-1 tvg-logo="https://vhx.imgix.net/rizintv2/assets/e13b2f34-2ba7-42ea-ac74-99e5ce6fb7e8.png?auto=format%2Ccompress&fit=crop&h=720&w=1280" group-title="XYZ STREAMS",[🔴 LIVE 15:00 WIB] SUPER RIZIN.5 (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
