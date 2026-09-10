@@ -1,28 +1,20 @@
 #EXTM3U
-# Last Updated: 09/11/2026, 01:19 AM WIB
+# Last Updated: 09/11/2026, 03:55 AM WIB
 # Mode: CDP Deep Network Interception
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/netherlands/logos/psv.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/ukraine/logos/shakhtar-donetsk.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/50-uefa-champions-league.png&color1=ED1C24&color2=FF6600&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 23:45 WIB] PSV vs Shakhtar Donetsk (Belum Mulai)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/czech-republic/logos/slavia-praha.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/france/logos/lens.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/50-uefa-champions-league.png&color1=E30613&color2=FFCC00&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 02:00 WIB] Slavia Praha vs Lens (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/turkey/logos/fenerbahce.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/italy/logos/roma.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/50-uefa-champions-league.png&color1=002D62&color2=8E1F27&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 23:45 WIB] Fenerbahçe vs Roma (Belum Mulai)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/manchester-united.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/azerbaijan/logos/sabah.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/50-uefa-champions-league.png&color1=DA291C&color2=002B49&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 02:00 WIB] Manchester United vs Sabah (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/czech-republic/logos/slavia-praha.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/france/logos/lens.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/50-uefa-champions-league.png&color1=E30613&color2=FFCC00&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 02:00 WIB] Slavia Praha vs Lens (Belum Mulai)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/italy/logos/como.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/germany/logos/rb-leipzig.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/50-uefa-champions-league.png&color1=002D62&color2=DD0000&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 02:00 WIB] Como vs RB Leipzig (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/manchester-united.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/azerbaijan/logos/sabah.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/50-uefa-champions-league.png&color1=DA291C&color2=002B49&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 02:00 WIB] Manchester United vs Sabah (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/italy/logos/como.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/germany/logos/rb-leipzig.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/50-uefa-champions-league.png&color1=002D62&color2=DD0000&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 02:00 WIB] Como vs RB Leipzig (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/germany/logos/bayern-munchen.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/norway/logos/bodo-glimt.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/50-uefa-champions-league.png&color1=DC052D&color2=FEE102&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 02:00 WIB] Bayern München vs Bodø / Glimt (Belum Mulai)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/germany/logos/bayern-munchen.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/norway/logos/bodo-glimt.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/50-uefa-champions-league.png&color1=DC052D&color2=FEE102&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 02:00 WIB] Bayern München vs Bodø / Glimt (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
