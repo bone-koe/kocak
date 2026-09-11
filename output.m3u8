@@ -1,12 +1,16 @@
 #EXTM3U
-# Last Updated: 09/11/2026, 07:36 AM WIB
+# Last Updated: 09/11/2026, 12:08 PM WIB
 # Mode: CDP Deep Network Interception
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/ncaa/500/50.png&logo2=https://a.espncdn.com/i/teamlogos/ncaa/500/2390.png&color1=FF6600&color2=005030&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 07:00 WIB] Florida A&M vs Miami (FL) (Belum Mulai)
+#EXTINF:-1 tvg-logo="https://live.onefc.com/event-management/live.onefc.com/assets/events/1786603295927_TIC30_Kiswe_Event_Banner_1920x1080px_720p.jpg" group-title="XYZ STREAMS",[⏳ UPCOMING 06:00 WIB] One FC Inner Circle 30 (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/sf.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/lar.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=AA0000&color2=003594&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 07:35 WIB] San Francisco vs Los Angeles (Belum Mulai)
+#EXTINF:-1 tvg-logo="https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/2026-09/br_cfb_appoll_16x9.png?w=2560" group-title="XYZ STREAMS",[⏳ UPCOMING 06:00 WIB] College Football Week 2: Friday (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://riivet-assets.b-cdn.net/mhg13lyyob7vln2v9k6i8y8kfwie" group-title="XYZ STREAMS",[⏳ UPCOMING 24:00 WIB] Boone Speedway (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
