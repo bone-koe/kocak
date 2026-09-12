@@ -1,10 +1,6 @@
 #EXTM3U
-# Last Updated: 09/13/2026, 03:58 AM WIB
+# Last Updated: 09/13/2026, 05:45 AM WIB
 # Mode: CDP Deep Network Interception
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/sunderland.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/arsenal.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=EB172B&color2=EF0107&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 02:00 WIB] Sunderland vs Arsenal (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0osme4RyrqwMzU-s8lWo0AdzEYYgYL8f258iIE5aTtFQzH10L5ezTroY&s=10" group-title="XYZ STREAMS",[🔴 LIVE 24:00 WIB] Misfits McCann vs. Big Stacks (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -14,7 +10,7 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.daznservices.com/di/library/DAZN_News/dc/78/ryan-garcia-vs-conor-benn_30rrfr9inin814bklvcnghnxr.jpg?t=-1193992753" group-title="XYZ STREAMS",[⏳ UPCOMING 04:00 WIB] Garcia vs Benn (Belum Mulai)
+#EXTINF:-1 tvg-logo="https://images.daznservices.com/di/library/DAZN_News/dc/78/ryan-garcia-vs-conor-benn_30rrfr9inin814bklvcnghnxr.jpg?t=-1193992753" group-title="XYZ STREAMS",[🔴 LIVE 04:00 WIB] Garcia vs Benn (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
