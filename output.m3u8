@@ -1,6 +1,38 @@
 #EXTM3U
-# Last Updated: 09/12/2026, 05:58 PM WIB
+# Last Updated: 09/12/2026, 08:49 PM WIB
 # Mode: CDP Deep Network Interception
+
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/aston-villa.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/nottingham-forest.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=670E36&color2=DD0000&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 21:00 WIB] Aston Villa vs Nottingham Forest (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/bournemouth.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/brentford.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=DA291C&color2=E30613&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 21:00 WIB] AFC Bournemouth vs Brentford (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/chelsea.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/hull-city.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=034694&color2=F5A623&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 21:00 WIB] Chelsea vs Hull City (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/crystal-palace.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/ipswich-town.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=1B458F&color2=0000FF&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 21:00 WIB] Crystal Palace vs Ipswich Town (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/liverpool.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/fulham.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=C8102E&color2=CC0000&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 21:00 WIB] Liverpool vs Fulham (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/tottenham-hotspur.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/everton.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=132257&color2=003399&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 23:30 WIB] Tottenham Hotspur vs Everton (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/sunderland.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/arsenal.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=EB172B&color2=EF0107&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 02:00 WIB] Sunderland vs Arsenal (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/2026-09/br_cfb_appoll_16x9.png?w=2560" group-title="XYZ STREAMS",[⏳ UPCOMING 23:00 WIB] College Football Week 2: Saturday (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
 #EXTINF:-1 tvg-logo="https://images2.9c9media.com/image_asset/2026_8_26_a1acc34b-a3fd-418c-bf5d-a9549b090a84_jpg_1920x1080.jpg" group-title="XYZ STREAMS",[🔴 LIVE 22:30 WIB] All Feeds & Courts (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
