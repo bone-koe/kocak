@@ -1,10 +1,6 @@
 #EXTM3U
-# Last Updated: 09/12/2026, 08:34 AM WIB
+# Last Updated: 09/12/2026, 01:25 PM WIB
 # Mode: CDP Deep Network Interception
-
-#EXTINF:-1 tvg-logo="https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/2026-09/br_cfb_appoll_16x9.png?w=2560" group-title="XYZ STREAMS",[🔴 LIVE 06:00 WIB] College Football Week 2: Friday (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
 #EXTINF:-1 tvg-logo="https://images2.9c9media.com/image_asset/2026_8_26_a1acc34b-a3fd-418c-bf5d-a9549b090a84_jpg_1920x1080.jpg" group-title="XYZ STREAMS",[🔴 LIVE 22:30 WIB] All Feeds & Courts (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
