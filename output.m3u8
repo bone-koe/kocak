@@ -1,22 +1,6 @@
 #EXTM3U
-# Last Updated: 09/13/2026, 07:23 AM WIB
+# Last Updated: 09/13/2026, 12:00 PM WIB
 # Mode: CDP Deep Network Interception
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0osme4RyrqwMzU-s8lWo0AdzEYYgYL8f258iIE5aTtFQzH10L5ezTroY&s=10" group-title="XYZ STREAMS",[🔴 LIVE 24:00 WIB] Misfits McCann vs. Big Stacks (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="https://ufc.com/images/styles/background_image_sm/s3/2026-08/091226-ufc-fight-night-silva-vs-delgado-EVENT-ART.jpg" group-title="XYZ STREAMS",[🔴 LIVE 01:00 WIB] Noche UFC: Silva vs. Delgado (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.daznservices.com/di/library/DAZN_News/dc/78/ryan-garcia-vs-conor-benn_30rrfr9inin814bklvcnghnxr.jpg?t=-1193992753" group-title="XYZ STREAMS",[🔴 LIVE 04:00 WIB] Garcia vs Benn (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/2026-09/br_cfb_appoll_16x9.png?w=2560" group-title="XYZ STREAMS",[🔴 LIVE 23:00 WIB] College Football Week 2: Saturday (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
 #EXTINF:-1 tvg-logo="https://images2.9c9media.com/image_asset/2026_8_26_a1acc34b-a3fd-418c-bf5d-a9549b090a84_jpg_1920x1080.jpg" group-title="XYZ STREAMS",[🔴 LIVE 22:30 WIB] All Feeds & Courts (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
