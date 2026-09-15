@@ -1,8 +1,28 @@
 #EXTM3U
-# Last Updated: 09/15/2026, 07:13 AM WIB
+# Last Updated: 09/15/2026, 11:55 AM WIB
 # Mode: CDP Deep Network Interception
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/kc.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=FB4F14&color2=E31837&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 07:15 WIB] Denver vs Kansas City (Belum Mulai)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/peterborough-united.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/barnsley.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/28-football-league-cup.png?q=75&w=50&color1=0000FF&color2=CC0000&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 01:30 WIB] Peterborough United vs Barnsley (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/west-ham-united.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/fulham.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/28-football-league-cup.png?q=75&w=50&color1=7A263A&color2=CC0000&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 01:45 WIB] West Ham United vs Fulham (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/ipswich-town.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/arsenal.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/28-football-league-cup.png?q=75&w=50&color1=0000FF&color2=EF0107&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 02:00 WIB] Ipswich Town vs Arsenal (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/reading.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/brentford.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/28-football-league-cup.png?q=75&w=50&color1=0044CC&color2=E30613&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 02:00 WIB] Reading vs Brentford (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/liverpool.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/tottenham-hotspur.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/28-football-league-cup.png?q=75&w=50&color1=C8102E&color2=132257&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 02:00 WIB] Liverpool vs Tottenham Hotspur (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/elche.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/real-madrid.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/8-primera-division.png&color1=00954C&color2=00529F&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 02:30 WIB] Elche vs Real Madrid (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
