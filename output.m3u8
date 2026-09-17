@@ -1,4 +1,8 @@
 #EXTM3U
-# Last Updated: 09/17/2026, 05:17 AM WIB
+# Last Updated: 09/17/2026, 07:34 AM WIB
 # Mode: CDP Deep Network Interception
+
+#EXTINF:-1 tvg-logo="https://images.mlssoccer.com/image/private/t_editorial_landscape_12_desktop/mls/d4inifz6zklazjpbgpux.png" group-title="XYZ STREAMS",[🔴 LIVE 07:00 WIB] Inter Miami vs Cruz Azul (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
