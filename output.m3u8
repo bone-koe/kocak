@@ -1,12 +1,12 @@
 #EXTM3U
-# Last Updated: 09/18/2026, 04:41 AM WIB
+# Last Updated: 09/18/2026, 06:42 AM WIB
 # Mode: CDP Deep Network Interception
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/ncaa/500/183.png&logo2=https://a.espncdn.com/i/teamlogos/ncaa/500/221.png&logo4=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/ncaa-football.png&color1=F76900&color2=003594&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 06:30 WIB] Syracuse Orange vs Pittsburgh Panthers (Belum Mulai)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/ncaa/500/183.png&logo2=https://a.espncdn.com/i/teamlogos/ncaa/500/221.png&logo4=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/ncaa-football.png&color1=F76900&color2=003594&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 06:30 WIB] Syracuse Orange vs Pittsburgh Panthers (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/atl.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/gb.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=A71930&color2=203731&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 24:00 WIB] Atlanta Falcons vs Green Bay Packers (Belum Mulai)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/det.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/buf.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0076B6&color2=00338D&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 07:15 WIB] Detroit Lions vs Buffalo Bills (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
