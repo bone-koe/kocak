@@ -1,12 +1,20 @@
 #EXTM3U
-# Last Updated: 09/18/2026, 08:31 AM WIB
+# Last Updated: 09/18/2026, 01:33 PM WIB
 # Mode: CDP Deep Network Interception
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/ncaa/500/183.png&logo2=https://a.espncdn.com/i/teamlogos/ncaa/500/221.png&logo4=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/ncaa-football.png&color1=F76900&color2=003594&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 06:30 WIB] Syracuse Orange vs Pittsburgh Panthers (Belum Mulai)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/brentford.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/chelsea.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=E30613&color2=034694&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 02:00 WIB] Brentford vs Chelsea (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/det.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/buf.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0076B6&color2=00338D&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 07:15 WIB] Detroit Lions vs Buffalo Bills (Belum Mulai)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/espanyol.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/elche.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/8-primera-division.png&color1=0066CC&color2=00954C&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 02:00 WIB] Espanyol vs Elche (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/germany/logos/bayern-munchen.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/germany/logos/union-berlin.png&log3=https://cdn.livesoccertv.com/tt/images/competitions/9-bundesliga.png&color1=DC052D&color2=FFFFFF&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 01:30 WIB] Bayern München vs Union Berlin (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/brentford.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/chelsea.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=E30613&color2=034694&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 06:30 WIB] College Football Wk 3 Friday (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
