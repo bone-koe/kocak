@@ -1,24 +1,16 @@
 #EXTM3U
-# Last Updated: 09/19/2026, 11:35 PM WIB
+# Last Updated: 09/20/2026, 01:48 AM WIB
 # Mode: CDP Deep Network Interception
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/qhs87V1x9bg/maxresdefault.jpg" group-title="XYZ STREAMS",[🔴 LIVE 22:30 WIB] College Football Week 3 (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/nottingham-forest.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/coventry-city.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=DD0000&color2=00BFFF&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 23:30 WIB] Nottingham Forest vs Coventry City (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/celta-de-vigo.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/racing-santander.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/8-primera-division.png&color1=88B0E8&color2=0055A5&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 23:30 WIB] Celta de Vigo vs Racing Santander (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/germany/logos/stuttgart.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/germany/logos/borussia-dortmund.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/7-bundesliga.png?q=75&w=50&color1=E32219&color2=FDE100&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 23:30 WIB] Stuttgart vs Borussia Dortmund (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
 #EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/sevilla.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/barcelona.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/8-primera-division.png&color1=F58220&color2=A50044&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 02:00 WIB] Sevilla vs Barcelona (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://s.yimg.com/lo/mysterio/api/70ce89d5f24c5552050a531d53ba997d1f9288c83f5ffecb2c15ff4626450f0c/lightyear_networkapi/resizefill_w976%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2Fa95b4853b9ae21bc89f5c41cc7500c27.jpg" group-title="XYZ STREAMS",[⏳ UPCOMING 04:30 WIB] UFC 331: Van vs. Pantoja 2 (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
