@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Updated: 09/20/2026, 04:44 PM WIB
+# Last Updated: 09/20/2026, 08:42 PM WIB
 # Mode: CDP Deep Network Interception
 
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=8xxdbu1nq32n19m28dpdosyh3_image-header_pRow_1724327650000&quality=70" group-title="XYZ STREAMS",[⏳ UPCOMING 24:00 WIB] NFL RedZone (Belum Mulai)
@@ -62,35 +62,31 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/italy/logos/fiorentina.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/italy/logos/napoli.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/39-serie-a.png?q=75&w=50&color1=482E92&color2=12A0D7&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 17:30 WIB] Fiorentina vs Napoli (Belum Mulai)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/getafe.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/malaga.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/8-primera-division.png&color1=0055A5&color2=0072CE&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 19:00 WIB] Getafe vs Málaga (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/getafe.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/malaga.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/8-primera-division.png&color1=0055A5&color2=0072CE&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 19:00 WIB] Getafe vs Málaga (Belum Mulai)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/bournemouth.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/liverpool.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=DA291C&color2=C8102E&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 20:00 WIB] AFC Bournemouth vs Liverpool (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/bournemouth.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/liverpool.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=DA291C&color2=C8102E&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 20:00 WIB] AFC Bournemouth vs Liverpool (Belum Mulai)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/leeds-united.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/crystal-palace.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=FFCD00&color2=1B458F&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 20:00 WIB] Leeds United vs Crystal Palace (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/leeds-united.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/crystal-palace.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=FFCD00&color2=1B458F&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 20:00 WIB] Leeds United vs Crystal Palace (Belum Mulai)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/manchester-city.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/sunderland.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=6CABDD&color2=EB172B&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 20:00 WIB] Manchester City vs Sunderland (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/manchester-city.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/sunderland.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png&color1=6CABDD&color2=EB172B&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 20:00 WIB] Manchester City vs Sunderland (Belum Mulai)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/italy/logos/frosinone.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/italy/logos/como.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/39-serie-a.png?q=75&w=50&color1=FFED00&color2=0000FF&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 20:00 WIB] Frosinone vs Como (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/italy/logos/frosinone.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/italy/logos/como.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/39-serie-a.png?q=75&w=50&color1=FFED00&color2=0000FF&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 20:00 WIB] Frosinone vs Como (Belum Mulai)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/italy/logos/parma-fc.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/italy/logos/genoa.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/39-serie-a.png?q=75&w=50&color1=FEDF00&color2=E2001A&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 20:00 WIB] Parma vs Genoa (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/italy/logos/parma-fc.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/italy/logos/genoa.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/39-serie-a.png?q=75&w=50&color1=FEDF00&color2=E2001A&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 20:00 WIB] Parma vs Genoa (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/germany/logos/bayer-leverkusen.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/germany/logos/rb-leipzig.png&logo=https://cdn.livesoccertv.com/tt/images/competitions/9-bundesliga.png&color1=E32219&color2=001F5B&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 20:30 WIB] Bayer Leverkusen vs RB Leipzig (Belum Mulai)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/teams/germany/logos/bayer-leverkusen.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/germany/logos/rb-leipzig.png&logo=https://cdn.livesoccertv.com/tt/images/competitions/9-bundesliga.png&color1=E32219&color2=001F5B&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 20:30 WIB] Bayer Leverkusen vs RB Leipzig (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
