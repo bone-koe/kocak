@@ -1,4 +1,52 @@
 #EXTM3U
-# Last Updated: 09/22/2026, 01:37 AM WIB
+# Last Updated: 09/22/2026, 05:09 AM WIB
 # Mode: CDP Deep Network Interception
+
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://static.wikia.nocookie.net/logopedia/images/7/70/New_York_Giants_logo_%28White_variant%29.png/revision/latest/scale-to-width-down/250?cb=20240903113019&logo2=https://www.gofevo.com/Upload/6ead9fd1-0c7c-4b21-b624-af77010fb83c/9479cd53-9955-4193-a334-d22308d2cb9f.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0B2265&color2=003594&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 07:15 WIB] New York Giants vs Los Angeles Rams (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/mlb/500/tor.png&logo2=https://a.espncdn.com/i/teamlogos/mlb/500/bal.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png&color1=134A8E&color2=DF4601&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 05:40 WIB] Toronto Blue Jays vs Baltimore Orioles (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/mlb/500/wsh.png&logo2=https://a.espncdn.com/i/teamlogos/mlb/500/det.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png&color1=AB0003&color2=0C2340&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 08:45 WIB] Washington Nationals vs Detroit Tigers (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/mlb/500/min.png&logo2=https://a.espncdn.com/i/teamlogos/mlb/500/sf.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png&color1=002B49&color2=FD5A1E&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 08:45 WIB] Minnesota Twins vs San Francisco Giants (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nhl/500/phi.png&logo2=https://a.espncdn.com/i/teamlogos/nhl/500/wsh.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png&color1=F74902&color2=041E42&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 06:00 WIB] Philadelphia Flyers vs Washington Capitals (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nhl/500/det.png&logo2=https://a.espncdn.com/i/teamlogos/nhl/500/cbj.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png&color1=CE1126&color2=002868&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 06:00 WIB] Detroit Red Wings vs Columbus Blue Jackets (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nhl/500/buf.png&logo2=https://a.espncdn.com/i/teamlogos/nhl/500/pit.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png&color1=002654&color2=FFB612&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 06:00 WIB] Buffalo Sabres vs Pittsburgh Penguins (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nhl/500/nyr.png&logo2=https://a.espncdn.com/i/teamlogos/nhl/500/nj.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png&color1=0038A8&color2=CE1126&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 06:00 WIB] New York Rangers vs New Jersey Devils (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nhl/500/ott.png&logo2=https://a.espncdn.com/i/teamlogos/nhl/500/mon.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png&color1=C52032&color2=AF1E2D&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 06:00 WIB] Ottawa Senators vs Montreal Canadiens (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nhl/500/col.png&logo2=https://a.espncdn.com/i/teamlogos/nhl/500/wpg.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png&color1=6F263D&color2=041E42&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 07:00 WIB] Colorado Avalanche vs Winnipeg Jets (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nhl/500/min.png&logo2=https://a.espncdn.com/i/teamlogos/nhl/500/chi.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png&color1=154734&color2=CF0A2C&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 07:00 WIB] Minnesota Wild vs Chicago Blackhawks (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nhl/500/stl.png&logo2=https://a.espncdn.com/i/teamlogos/nhl/500/dal.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png&color1=002F87&color2=006847&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 07:00 WIB] St. Louis Blues vs Dallas Stars (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
