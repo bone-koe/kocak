@@ -1,16 +1,16 @@
 #EXTM3U
-# Last Updated: 09/23/2026, 11:58 PM WIB
+# Last Updated: 09/24/2026, 02:56 AM WIB
 # Mode: CDP Deep Network Interception
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/mlb/500/wsh.png&logo2=https://a.espncdn.com/i/teamlogos/mlb/500/det.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png&color1=AB0003&color2=0C2340&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 24:10 WIB] Washington Nationals vs Detroit Tigers (Belum Mulai)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/mlb/500/wsh.png&logo2=https://a.espncdn.com/i/teamlogos/mlb/500/det.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png&color1=AB0003&color2=0C2340&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 24:10 WIB] Washington Nationals vs Detroit Tigers (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/mlb/500/tor.png&logo2=https://a.espncdn.com/i/teamlogos/mlb/500/bal.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png&color1=134A8E&color2=DF4601&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 24:35 WIB] Toronto Blue Jays vs Baltimore Orioles (Belum Mulai)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/mlb/500/tor.png&logo2=https://a.espncdn.com/i/teamlogos/mlb/500/bal.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png&color1=134A8E&color2=DF4601&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 24:35 WIB] Toronto Blue Jays vs Baltimore Orioles (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/mlb/500/min.png&logo2=https://a.espncdn.com/i/teamlogos/mlb/500/sf.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png&color1=002B49&color2=FD5A1E&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 02:45 WIB] Minnesota Twins vs San Francisco Giants (Belum Mulai)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/mlb/500/min.png&logo2=https://a.espncdn.com/i/teamlogos/mlb/500/sf.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png&color1=002B49&color2=FD5A1E&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 02:45 WIB] Minnesota Twins vs San Francisco Giants (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
