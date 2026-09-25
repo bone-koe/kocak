@@ -1,8 +1,8 @@
 #EXTM3U
-# Last Updated: 09/25/2026, 05:24 AM WIB
+# Last Updated: 09/25/2026, 07:37 AM WIB
 # Mode: CDP Deep Network Interception
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/atl.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/gb.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=A71930&color2=203731&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 07:15 WIB] Atlanta Falcons vs Green Bay Packers (Belum Mulai)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/atl.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/gb.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=A71930&color2=203731&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 07:15 WIB] Atlanta Falcons vs Green Bay Packers (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
@@ -10,15 +10,15 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/mlb/500/cle.png&logo2=https://a.espncdn.com/i/teamlogos/mlb/500/bos.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png&color1=002B49&color2=BD3039&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 05:45 WIB] Cleveland Guardians vs Boston Red Sox (Belum Mulai)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/mlb/500/cle.png&logo2=https://a.espncdn.com/i/teamlogos/mlb/500/bos.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png&color1=002B49&color2=BD3039&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 05:45 WIB] Cleveland Guardians vs Boston Red Sox (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/mlb/500/tb.png&logo2=https://a.espncdn.com/i/teamlogos/mlb/500/nyy.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png&color1=092C5C&color2=003087&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 06:05 WIB] Tampa Bay Rays vs New York Yankees (Belum Mulai)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/mlb/500/tb.png&logo2=https://a.espncdn.com/i/teamlogos/mlb/500/nyy.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png&color1=092C5C&color2=003087&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 06:05 WIB] Tampa Bay Rays vs New York Yankees (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/mlb/500/cin.png&logo2=https://a.espncdn.com/i/teamlogos/mlb/500/atl.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png&color1=C6011F&color2=13274F&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 06:15 WIB] Cincinnati Reds vs Atlanta Braves (Belum Mulai)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/mlb/500/cin.png&logo2=https://a.espncdn.com/i/teamlogos/mlb/500/atl.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png&color1=C6011F&color2=13274F&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 06:15 WIB] Cincinnati Reds vs Atlanta Braves (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
