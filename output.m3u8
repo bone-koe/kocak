@@ -1,28 +1,16 @@
 #EXTM3U
-# Last Updated: 09/28/2026, 05:17 AM WIB
+# Last Updated: 09/28/2026, 07:48 AM WIB
 # Mode: CDP Deep Network Interception
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgHH7KSx3Sg2Xn8bqTRvU5Yn9ebxj3Moz6tc-yN8UGUr1nhi0VBDTmONg&s=10" group-title="XYZ STREAMS",[🔴 LIVE 24:00 WIB] NFL RedZone (Belum Mulai)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://static.wikia.nocookie.net/nfl-football7940/images/7/78/Los_Angeles_Rams.png/revision/latest/scale-to-width-down/460?cb=20200328023102&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=003594&color2=FB4F14&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 07:20 WIB] Los Angeles Rams vs Denver Broncos (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/ari.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/sf.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=97233F&color2=AA0000&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 03:05 WIB] Arizona Cardinals vs San Francisco 49ers (Belum Mulai)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/wnba/500/wsh.png&logo2=https://a.espncdn.com/i/teamlogos/wnba/500/atl.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/wnba.png&color1=002B49&color2=E03A3E&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 06:00 WIB] Washington Mystics vs Atlanta Dream (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/min.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/tb.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=4F2683&color2=D50A0A&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 03:05 WIB] Minnesota Vikings vs Tampa Bay Buccaneers (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/bal.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/dal.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=241773&color2=003594&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 03:25 WIB] Baltimore Ravens vs Dallas Cowboys (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/lv.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/no.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=000000&color2=D3BC8D&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 03:25 WIB] Las Vegas Raiders vs New Orleans Saints (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://static.wikia.nocookie.net/nfl-football7940/images/7/78/Los_Angeles_Rams.png/revision/latest/scale-to-width-down/460?cb=20200328023102&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=003594&color2=FB4F14&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 07:20 WIB] Los Angeles Rams vs Denver Broncos (Belum Mulai)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/wnba/500/dal.png&logo2=https://a.espncdn.com/i/teamlogos/wnba/500/gsv.png&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 08:00 WIB] Dallas Wings vs Golden State Valkyries (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
