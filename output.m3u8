@@ -1,24 +1,12 @@
 #EXTM3U
-# Last Updated: 09/29/2026, 02:41 AM WIB
+# Last Updated: 09/29/2026, 06:57 AM WIB
 # Mode: CDP Deep Network Interception
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/flags/48/northern-ireland.png&logo2=https://cdn.livesoccertv.com/tt/images/flags/48/hungary.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png& &q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 01:45 WIB] Northern Ireland vs Hungary (Belum Mulai)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/phi.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/chi.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=004C54&color2=0B162A&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 07:15 WIB] Philadelphia Eagles vs Chicago Bears (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/flags/48/romania.png&logo2=https://cdn.livesoccertv.com/tt/images/flags/48/bosnia-and-herzegovina.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png& &q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 01:45 WIB] Romania vs Bosnia and Herzegovina (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/flags/48/turkey.png&logo2=https://cdn.livesoccertv.com/tt/images/flags/48/italy.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png& &q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 01:45 WIB] Turkey vs Italy (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/flags/48/belgium.png&logo2=https://cdn.livesoccertv.com/tt/images/flags/48/france.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png& &q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 01:45 WIB] Belgium vs France (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/flags/48/sweden.png&logo2=https://cdn.livesoccertv.com/tt/images/flags/48/poland.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png& &q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 01:45 WIB] Sweden vs Poland (Belum Mulai)
+#EXTINF:-1 tvg-logo="https://www.pwtorch.com/site/wp-content/uploads/post/2026/09/20260928_RAW_Match_LolaRox_16x9_Tonight-678x381.jpg" group-title="XYZ STREAMS",[⏳ UPCOMING 07:00 WIB] WWE RAW (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
