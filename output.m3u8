@@ -1,44 +1,24 @@
 #EXTM3U
-# Last Updated: 09/30/2026, 03:47 AM WIB
+# Last Updated: 09/30/2026, 06:58 AM WIB
 # Mode: CDP Deep Network Interception
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/flags/48/scotland.png&logo2=https://cdn.livesoccertv.com/tt/images/flags/48/switzerland.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png&" group-title="XYZ STREAMS",[🔴 LIVE 01:45 WIB] Scotland vs Switzerland (Belum Mulai)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nhl/500/mtl.png&logo2=https://a.espncdn.com/i/teamlogos/nhl/500/tor.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png&color1=AF1E2D&color2=00205B&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 06:00 WIB] Montreal Canadiens vs Toronto Maple Leafs (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/flags/48/slovakia.png&logo2=https://cdn.livesoccertv.com/tt/images/flags/48/kazakhstan.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png&" group-title="XYZ STREAMS",[🔴 LIVE 01:45 WIB] Slovakia vs Kazakhstan (Belum Mulai)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nhl/500/nyr.png&logo2=https://a.espncdn.com/i/teamlogos/nhl/500/bos.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png&color1=00338D&color2=FFB81C&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 07:00 WIB] New York Rangers vs Boston Bruins (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/flags/48/san-marino.png&logo2=https://cdn.livesoccertv.com/tt/images/flags/48/albania.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png&" group-title="XYZ STREAMS",[🔴 LIVE 01:45 WIB] San Marino vs Albania (Belum Mulai)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nhl/500/van.png&logo2=https://a.espncdn.com/i/teamlogos/nhl/500/edm.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png&color1=00205B&color2=FF4C00&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 09:00 WIB] Vancouver Canucks vs Edmonton Oilers (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/flags/48/luxembourg.png&logo2=https://cdn.livesoccertv.com/tt/images/flags/48/iceland.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png&" group-title="XYZ STREAMS",[🔴 LIVE 01:45 WIB] Luxembourg vs Iceland (Belum Mulai)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nhl/500/chi.png&logo2=https://a.espncdn.com/i/teamlogos/nhl/500/vgk.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png&color1=CF0A2C&color2=B4975A&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 09:30 WIB] Chicago Blackhawks vs Vegas Golden Knights (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/flags/48/bulgaria.png&logo2=https://cdn.livesoccertv.com/tt/images/flags/48/estonia.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png&" group-title="XYZ STREAMS",[🔴 LIVE 01:45 WIB] Bulgaria vs Estonia (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/flags/48/spain.png&logo2=https://cdn.livesoccertv.com/tt/images/flags/48/croatia.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png&" group-title="XYZ STREAMS",[🔴 LIVE 01:45 WIB] Spain vs Croatia (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/flags/48/czech-republic.png&logo2=https://cdn.livesoccertv.com/tt/images/flags/48/england.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png&" group-title="XYZ STREAMS",[🔴 LIVE 01:45 WIB] Czech Republic vs England (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/flags/48/slovenia.png&logo2=https://cdn.livesoccertv.com/tt/images/flags/48/north-macedonia.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png&" group-title="XYZ STREAMS",[🔴 LIVE 01:45 WIB] Slovenia vs North Macedonia (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/mlb/500/phi.png&logo2=https://a.espncdn.com/i/teamlogos/mlb/500/atl.png&logo3=https://content.sportslogos.net/logos/53/5466/full/-al-wild-card-logo-primary-2026-546669342026.png&color1=E31837&color2=13274F&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 01:00 WIB] Philadelphia Phillies vs Atlanta Braves (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/mlb/500/chw.png&logo2=https://a.espncdn.com/i/teamlogos/mlb/500/hou.png&logo3=https://content.sportslogos.net/logos/53/5466/full/-al-wild-card-logo-primary-2026-546669342026.png&color1=27251F&color2=002D62&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 04:00 WIB] Chicago White Sox vs Houston Astros (Belum Mulai)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/mlb/500/chw.png&logo2=https://a.espncdn.com/i/teamlogos/mlb/500/hou.png&logo3=https://content.sportslogos.net/logos/53/5466/full/-al-wild-card-logo-primary-2026-546669342026.png&color1=27251F&color2=002D62&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 04:00 WIB] Chicago White Sox vs Houston Astros (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
