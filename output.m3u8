@@ -1,16 +1,8 @@
 #EXTM3U
-# Last Updated: 10/01/2026, 03:49 AM WIB
+# Last Updated: 10/01/2026, 07:12 AM WIB
 # Mode: CDP Deep Network Interception
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/mlb/500/phi.png&logo2=https://a.espncdn.com/i/teamlogos/mlb/500/atl.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png&color1=E31837&color2=13274F&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 01:00 WIB] Philadelphia Phillies vs Atlanta Braves (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/mlb/500/chw.png&logo2=https://a.espncdn.com/i/teamlogos/mlb/500/hou.png&logo3=https://content.sportslogos.net/logos/53/5466/full/-al-wild-card-logo-primary-2026-546669342026.png&color1=27251F&color2=002D62&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 04:00 WIB] Chicago White Sox vs Houston Astros (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/mlb/500/bos.png&logo2=https://a.espncdn.com/i/teamlogos/mlb/500/nyy.png&logo3=https://content.sportslogos.net/logos/53/5466/full/-al-wild-card-logo-primary-2026-546669342026.png&color1=BD3039&color2=003087&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 07:00 WIB] Boston Red Sox vs New York Yankees (Belum Mulai)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/mlb/500/bos.png&logo2=https://a.espncdn.com/i/teamlogos/mlb/500/nyy.png&logo3=https://content.sportslogos.net/logos/53/5466/full/-al-wild-card-logo-primary-2026-546669342026.png&color1=BD3039&color2=003087&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 07:00 WIB] Boston Red Sox vs New York Yankees (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
@@ -18,11 +10,11 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nhl/500/pit.png&logo2=https://a.espncdn.com/i/teamlogos/nhl/500/phi.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png&color1=FCB514&color2=F74902&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 06:30 WIB] Pittsburgh Penguins vs Philadelphia Flyers (Belum Mulai)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nhl/500/pit.png&logo2=https://a.espncdn.com/i/teamlogos/nhl/500/phi.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png&color1=FCB514&color2=F74902&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 06:30 WIB] Pittsburgh Penguins vs Philadelphia Flyers (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nhl/500/nyi.png&logo2=https://a.espncdn.com/i/teamlogos/nhl/500/tor.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png&color1=00539B&color2=00205B&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 06:30 WIB] New York Islanders vs Toronto Maple Leafs (Belum Mulai)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nhl/500/nyi.png&logo2=https://a.espncdn.com/i/teamlogos/nhl/500/tor.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png&color1=00539B&color2=00205B&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 06:30 WIB] New York Islanders vs Toronto Maple Leafs (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
