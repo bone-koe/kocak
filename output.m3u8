@@ -1,36 +1,4 @@
 #EXTM3U
-# Last Updated: 10/02/2026, 12:31 AM WIB
+# Last Updated: 10/02/2026, 04:58 AM WIB
 # Mode: CDP Deep Network Interception
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/flags/48/azerbaijan.png&logo2=https://cdn.livesoccertv.com/tt/images/flags/48/liechtenstein.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png&&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 23:00 WIB] Azerbaijan vs Liechtenstein (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/flags/48/malta.png&logo2=https://cdn.livesoccertv.com/tt/images/flags/48/gibraltar.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png&&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 01:45 WIB] Malta vs Gibraltar (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/flags/48/ireland.png&logo2=https://cdn.livesoccertv.com/tt/images/flags/48/austria.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png&&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 01:45 WIB] Ireland Republic vs Austria (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/flags/48/israel.png&logo2=https://cdn.livesoccertv.com/tt/images/flags/48/kosovo.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png&&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 01:45 WIB] Israel vs Kosovo (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/flags/48/denmark.png&logo2=https://cdn.livesoccertv.com/tt/images/flags/48/portugal.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png&&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 01:45 WIB] Denmark vs Portugal (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/flags/48/germany.png&logo2=https://cdn.livesoccertv.com/tt/images/flags/48/serbia.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png&&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 01:45 WIB] Germany vs Serbia (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/flags/48/greece.png&logo2=https://cdn.livesoccertv.com/tt/images/flags/48/netherlands.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png&&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 01:45 WIB] Greece vs Netherlands (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/flags/48/wales.png&logo2=https://cdn.livesoccertv.com/tt/images/flags/48/norway.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png&&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 01:45 WIB] Wales vs Norway (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
