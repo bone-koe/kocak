@@ -1,32 +1,8 @@
 #EXTM3U
-# Last Updated: 10/03/2026, 08:23 AM WIB
+# Last Updated: 10/03/2026, 01:39 PM WIB
 # Mode: CDP Deep Network Interception
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nhl/500/nyr.png&logo2=https://a.espncdn.com/i/teamlogos/nhl/500/det.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png&color1=00338D&color2=CE1126&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 05:30 WIB] New York Rangers vs Detroit Red Wings (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nhl/500/wsh.png&logo2=https://a.espncdn.com/i/teamlogos/nhl/500/car.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png&color1=041E42&color2=CC0000&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 06:00 WIB] Washington Capitals vs Carolina Hurricanes (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nhl/500/bos.png&logo2=https://a.espncdn.com/i/teamlogos/nhl/500/wpg.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png&color1=FFB81C&color2=041E42&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 07:00 WIB] Boston Bruins vs Winnipeg Jets (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nhl/500/stl.png&logo2=https://a.espncdn.com/i/teamlogos/nhl/500/dal.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png&color1=002F87&color2=006847&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 08:00 WIB] St. Louis Blues vs Dallas Stars (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nhl/500/ana.png&logo2=https://a.espncdn.com/i/teamlogos/nhl/500/vgk.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png&color1=F47A38&color2=B4975A&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 09:00 WIB] Anaheim Ducks vs Vegas Golden Knights (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/ncaa/500/221.png&logo2=https://a.espncdn.com/i/teamlogos/ncaa/500/259.png&logo4=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/college-football.png&color1=003594&color2=630031&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 06:00 WIB] Pittsburgh Panthers vs Virginia Tech Hokies (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/ncaa/500/213.png&logo2=https://a.espncdn.com/i/teamlogos/ncaa/500/77.png&logo4=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/college-football.png&color1=FFFFFF&color=4C230E&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 07:00 WIB] Penn State Nittany Lions vs Northwestern Wildcats (Belum Mulai)
+#EXTINF:-1 tvg-logo="https://vhx.imgix.net/rizintv2/assets/1d43deb5-deef-456d-93bd-57b9ba4c414d.jpg?auto=format%2Ccompress&fit=crop&h=720&w=1280" group-title="XYZ STREAMS",[🔴 LIVE 12:00 WIB] RIZIN LANDMARK 16 (RIZIN.tv) (ENGLISH) (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
