@@ -1,8 +1,8 @@
 #EXTM3U
-# Last Updated: 10/04/2026, 06:19 PM WIB
+# Last Updated: 10/04/2026, 10:49 PM WIB
 # Mode: CDP Deep Network Interception
 
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/ind.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=002C5F&color2=5A1414&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 20:30 WIB] Indianapolis Colts vs Washington Commanders (Belum Mulai)
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/ind.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=002C5F&color2=5A1414&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 20:30 WIB] Indianapolis Colts vs Washington Commanders (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
@@ -55,10 +55,6 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/det.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/car.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&color1=0076B6&color2=0085CA&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 07:20 WIB] Detroit Lions vs Carolina Panthers (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://cdn.livesoccertv.com/tt/images/flags/48/azerbaijan.png&logo2=https://cdn.livesoccertv.com/tt/images/flags/48/lithuania.png&logo3=https://cdn.livesoccertv.com/tt/images/competitions/669-uefa-nations-league.png&color1=00B4D8&color2=F15A24&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 20:00 WIB] Azerbaijan vs Lithuania (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
