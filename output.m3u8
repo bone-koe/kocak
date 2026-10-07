@@ -1,4 +1,20 @@
 #EXTM3U
-# Last Updated: 10/07/2026, 11:34 PM WIB
+# Last Updated: 10/08/2026, 04:31 AM WIB
 # Mode: CDP Deep Network Interception
+
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/mlb/500/cle.png&logo2=https://a.espncdn.com/i/teamlogos/mlb/500/chw.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png&color1=00385D&color2=27251F&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 03:00 WIB] Cleveland Guardians vs Chicago White Sox (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/mlb/500/lad.png&logo2=https://a.espncdn.com/i/teamlogos/mlb/500/atl.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png&color1=005A9C&color2=CE1141&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 05:00 WIB] Los Angeles Dodgers vs Atlanta Braves (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/mlb/500/tb.png&logo2=https://a.espncdn.com/i/teamlogos/mlb/500/nyy.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png&color1=092C5C&color2=0c2340&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 07:00 WIB] Tampa Bay Rays vs New York Yankees (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/mlb/500/mil.png&logo2=https://a.espncdn.com/i/teamlogos/mlb/500/sd.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png&color1=FFC72C&color2=2F241D&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 05:00 WIB] Milwaukee Brewers vs San Diego Padres (Belum Mulai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
