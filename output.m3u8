@@ -1,44 +1,4 @@
 #EXTM3U
-# Last Updated: 10/08/2026, 08:14 AM WIB
+# Last Updated: 10/08/2026, 02:31 PM WIB
 # Mode: CDP Deep Network Interception
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/mlb/500/tb.png&logo2=https://a.espncdn.com/i/teamlogos/mlb/500/nyy.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png&color1=092C5C&color2=0c2340&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 07:00 WIB] Tampa Bay Rays vs New York Yankees (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/mlb/500/mil.png&logo2=https://a.espncdn.com/i/teamlogos/mlb/500/sd.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png&color1=FFC72C&color2=2F241D&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 09:00 WIB] Milwaukee Brewers vs San Diego Padres (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nba/500/min.png&logo2=https://a.espncdn.com/i/teamlogos/nba/500/ind.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png&color1=0C2340&color2=FDBB30&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 06:00 WIB] Minnesota Timberwolves vs Indiana Pacers (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nba/500/orl.png&logo2=https://a.espncdn.com/i/teamlogos/nba/500/mem.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png&color1=0077C0&color2=5D76A9&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 07:00 WIB] Orlando Magic vs Memphis Grizzlies (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nba/500/mil.png&logo2=https://a.espncdn.com/i/teamlogos/nba/500/okc.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png&color1=00471B&color2=007AC1&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 07:00 WIB] Milwaukee Bucks vs Oklahoma City Thunder (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nba/500/phx.png&logo2=https://a.espncdn.com/i/teamlogos/nba/500/chi.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png&color1=1D1160&color2=CE1141&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 07:00 WIB] Phoenix Suns vs Chicago Bulls (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nba/500/gs.png&logo2=https://a.espncdn.com/i/teamlogos/nba/500/por.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png&color1=1D428A&color2=E03A3E&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 09:00 WIB] Golden State Warriors vs Portland Trail Blazers (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nhl/500/pit.png&logo2=https://a.espncdn.com/i/teamlogos/nhl/500/wsh.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png&color1=FCB514&color2=041E42&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 06:30 WIB] Pittsburgh Penguins vs Washington Capitals (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nhl/500/col.png&logo2=https://a.espncdn.com/i/teamlogos/nhl/500/wpg.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png&color1=6F263D&color2=041E42&q=65&w=100" group-title="XYZ STREAMS",[🔴 LIVE 06:30 WIB] Colorado Avalanche vs Winnipeg Jets (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.fancy-shark151.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nhl/500/edm.png&logo2=https://a.espncdn.com/i/teamlogos/nhl/500/ana.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png&color1=FF4C00&color2=F47A38&q=65&w=100" group-title="XYZ STREAMS",[⏳ UPCOMING 09:00 WIB] Edmonton Oilers vs Anaheim Ducks (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
