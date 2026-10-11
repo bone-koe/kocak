@@ -1,96 +1,68 @@
 #EXTM3U
-# Last Updated: 10/11/2026, 07:33 AM WIB
+# Last Updated: 10/11/2026, 01:20 PM WIB
 # Mode: CDP Deep Network Interception
 
-#EXTINF:-1 tvg-logo="" group-title="XYZ STREAMS",[🔴 LIVE 07:00 WIB] Cleveland Guardians vs Chicago White Sox (Belum Mulai)
+#EXTINF:-1 tvg-logo="" group-title="XYZ STREAMS",[⏳ UPCOMING 20:00 WIB] Crystal Palace vs Nottingham Forest (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="XYZ STREAMS",[🔴 LIVE 04:00 WIB] UFC Fight Night: Allen vs. Duncan (Belum Mulai)
+#EXTINF:-1 tvg-logo="" group-title="XYZ STREAMS",[⏳ UPCOMING 20:00 WIB] Hull City vs Everton (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="XYZ STREAMS",[🔴 LIVE 24:00 WIB] College Football (Belum Mulai)
+#EXTINF:-1 tvg-logo="" group-title="XYZ STREAMS",[⏳ UPCOMING 22:30 WIB] Liverpool vs Manchester City (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="XYZ STREAMS",[🔴 LIVE 05:30 WIB] Los Angeles Clippers vs Toronto Raptors (Belum Mulai)
+#EXTINF:-1 tvg-logo="" group-title="XYZ STREAMS",[⏳ UPCOMING 20:30 WIB] Philadelphia Eagles vs Jacksonville Jaguars (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="XYZ STREAMS",[🔴 LIVE 06:00 WIB] Atlanta Hawks vs Indiana Pacers (Belum Mulai)
+#EXTINF:-1 tvg-logo="" group-title="XYZ STREAMS",[⏳ UPCOMING 24:00 WIB] Houston Texans vs Tennessee Titans (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="XYZ STREAMS",[🔴 LIVE 06:00 WIB] Detroit Pistons vs Washington Wizards (Belum Mulai)
+#EXTINF:-1 tvg-logo="" group-title="XYZ STREAMS",[⏳ UPCOMING 24:00 WIB] Chicago Bears vs Green Bay Packers (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="XYZ STREAMS",[🔴 LIVE 07:00 WIB] Minnesota Timberwolves vs Miami Heat (Belum Mulai)
+#EXTINF:-1 tvg-logo="" group-title="XYZ STREAMS",[⏳ UPCOMING 24:00 WIB] Cincinnati Bengals vs Miami Dolphins (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="XYZ STREAMS",[🔴 LIVE 07:00 WIB] Philadelphia 76ers vs Boston Celtics (Belum Mulai)
+#EXTINF:-1 tvg-logo="" group-title="XYZ STREAMS",[⏳ UPCOMING 24:00 WIB] Las Vegas Raiders vs New England Patriots (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="XYZ STREAMS",[🔴 LIVE 07:30 WIB] Sacramento Kings vs Golden State Warriors (Belum Mulai)
+#EXTINF:-1 tvg-logo="" group-title="XYZ STREAMS",[⏳ UPCOMING 24:00 WIB] Minnesota Vikings vs New Orleans Saints (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="XYZ STREAMS",[⏳ UPCOMING 09:30 WIB] San Antonio Spurs vs Phoenix Suns (Belum Mulai)
+#EXTINF:-1 tvg-logo="" group-title="XYZ STREAMS",[⏳ UPCOMING 24:00 WIB] Cleveland Browns vs New York Jets (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="XYZ STREAMS",[🔴 LIVE 05:00 WIB] Minnesota Wild vs Florida Panthers (Belum Mulai)
+#EXTINF:-1 tvg-logo="" group-title="XYZ STREAMS",[⏳ UPCOMING 24:00 WIB] Indianapolis Colts vs Pittsburgh Steelers (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="XYZ STREAMS",[🔴 LIVE 06:00 WIB] Utah Hockey Club vs Buffalo Sabres (Belum Mulai)
+#EXTINF:-1 tvg-logo="" group-title="XYZ STREAMS",[⏳ UPCOMING 24:00 WIB] New York Giants vs Washington Commanders (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="XYZ STREAMS",[🔴 LIVE 06:00 WIB] Detroit Red Wings vs Montreal Canadiens (Belum Mulai)
+#EXTINF:-1 tvg-logo="" group-title="XYZ STREAMS",[⏳ UPCOMING 03:05 WIB] Denver Broncos vs Los Angeles Chargers (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="XYZ STREAMS",[🔴 LIVE 06:00 WIB] Nashville Predators vs Ottawa Senators (Belum Mulai)
+#EXTINF:-1 tvg-logo="" group-title="XYZ STREAMS",[⏳ UPCOMING 03:25 WIB] Detroit Lions vs Arizona Cardinals (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="XYZ STREAMS",[🔴 LIVE 06:00 WIB] Dallas Stars vs Pittsburgh Penguins (Belum Mulai)
+#EXTINF:-1 tvg-logo="" group-title="XYZ STREAMS",[⏳ UPCOMING 03:25 WIB] San Francisco 49ers vs Seattle Seahawks (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="XYZ STREAMS",[🔴 LIVE 06:00 WIB] Carolina Hurricanes vs Chicago Blackhawks (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="XYZ STREAMS",[🔴 LIVE 06:00 WIB] Columbus Blue Jackets vs St. Louis Blues (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="XYZ STREAMS",[🔴 LIVE 06:00 WIB] Toronto Maple Leafs vs Colorado Avalanche (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="XYZ STREAMS",[🔴 LIVE 06:30 WIB] Tampa Bay Lightning vs New York Islanders (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="XYZ STREAMS",[🔴 LIVE 02:30 WIB] Vancouver Canucks vs New Jersey Devils (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="XYZ STREAMS",[🔴 LIVE 03:00 WIB] Edmonton Oilers vs San Jose Sharks (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="XYZ STREAMS",[⏳ UPCOMING 09:00 WIB] Anaheim Ducks vs Calgary Flames (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="XYZ STREAMS",[⏳ UPCOMING 09:00 WIB] Los Angeles Kings vs Vegas Golden Knights (Belum Mulai)
+#EXTINF:-1 tvg-logo="" group-title="XYZ STREAMS",[⏳ UPCOMING 07:20 WIB] Baltimore Ravens vs Atlanta Falcons (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
