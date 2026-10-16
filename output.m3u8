@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Updated: 10/17/2026, 04:53 AM WIB
+# Last Updated: 10/17/2026, 06:59 AM WIB
 # Mode: CDP Deep Network Interception
 
 #EXTINF:-1 tvg-logo="" group-title="XYZ STREAMS",[⏳ UPCOMING 07:00 WIB] Tampa Bay Rays vs Cleveland Guardians (Belum Mulai)
@@ -14,19 +14,19 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="XYZ STREAMS",[⏳ UPCOMING 06:00 WIB] Miami Heat vs Orlando Magic (Belum Mulai)
+#EXTINF:-1 tvg-logo="" group-title="XYZ STREAMS",[🔴 LIVE 06:00 WIB] Miami Heat vs Orlando Magic (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="XYZ STREAMS",[⏳ UPCOMING 06:00 WIB] Boston Celtics vs Philadelphia 76ers (Belum Mulai)
+#EXTINF:-1 tvg-logo="" group-title="XYZ STREAMS",[🔴 LIVE 06:00 WIB] Boston Celtics vs Philadelphia 76ers (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="XYZ STREAMS",[⏳ UPCOMING 06:00 WIB] Toronto Raptors vs Detroit Pistons (Belum Mulai)
+#EXTINF:-1 tvg-logo="" group-title="XYZ STREAMS",[🔴 LIVE 06:00 WIB] Toronto Raptors vs Detroit Pistons (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="XYZ STREAMS",[⏳ UPCOMING 06:00 WIB] Milwaukee Bucks vs Indiana Pacers (Belum Mulai)
+#EXTINF:-1 tvg-logo="" group-title="XYZ STREAMS",[🔴 LIVE 06:00 WIB] Milwaukee Bucks vs Indiana Pacers (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
