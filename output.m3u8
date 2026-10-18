@@ -1,20 +1,20 @@
 #EXTM3U
-# Last Updated: 10/18/2026, 05:00 PM WIB
+# Last Updated: 10/18/2026, 08:56 PM WIB
 # Mode: CDP Deep Network Interception
 
-#EXTINF:-1 tvg-logo="" group-title="XYZ STREAMS",[⏳ UPCOMING 20:00 WIB] AFC Bournemouth vs Sunderland (Belum Mulai)
+#EXTINF:-1 tvg-logo="" group-title="XYZ STREAMS",[🔴 LIVE 20:00 WIB] AFC Bournemouth vs Sunderland (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="XYZ STREAMS",[⏳ UPCOMING 20:00 WIB] Brighton & Hove Albion vs Crystal Palace (Belum Mulai)
+#EXTINF:-1 tvg-logo="" group-title="XYZ STREAMS",[🔴 LIVE 20:00 WIB] Brighton & Hove Albion vs Crystal Palace (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="XYZ STREAMS",[⏳ UPCOMING 20:00 WIB] Leeds United vs Manchester United (Belum Mulai)
+#EXTINF:-1 tvg-logo="" group-title="XYZ STREAMS",[🔴 LIVE 20:00 WIB] Leeds United vs Manchester United (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="XYZ STREAMS",[⏳ UPCOMING 20:30 WIB] Houston Texans vs Jacksonville Jaguars (Belum Mulai)
+#EXTINF:-1 tvg-logo="" group-title="XYZ STREAMS",[🔴 LIVE 20:30 WIB] Houston Texans vs Jacksonville Jaguars (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
