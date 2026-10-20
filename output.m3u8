@@ -1,44 +1,36 @@
 #EXTM3U
-# Last Updated: 10/20/2026, 11:48 PM WIB
+# Last Updated: 10/21/2026, 03:09 AM WIB
 # Mode: CDP Deep Network Interception
 
-#EXTINF:-1 tvg-logo="" group-title="XYZ STREAMS",[🔴 LIVE 23:45 WIB] Sabah vs Borussia Dortmund (Belum Mulai)
+#EXTINF:-1 tvg-logo="" group-title="XYZ STREAMS",[🔴 LIVE 02:00 WIB] Roma vs Slovan Bratislava (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="XYZ STREAMS",[🔴 LIVE 23:45 WIB] Fenerbahçe vs Slavia Praha (Belum Mulai)
+#EXTINF:-1 tvg-logo="" group-title="XYZ STREAMS",[🔴 LIVE 02:00 WIB] Porto vs PSV (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="XYZ STREAMS",[⏳ UPCOMING 02:00 WIB] Roma vs Slovan Bratislava (Belum Mulai)
+#EXTINF:-1 tvg-logo="" group-title="XYZ STREAMS",[🔴 LIVE 02:00 WIB] Liverpool vs Villarreal (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="XYZ STREAMS",[⏳ UPCOMING 02:00 WIB] Porto vs PSV (Belum Mulai)
+#EXTINF:-1 tvg-logo="" group-title="XYZ STREAMS",[🔴 LIVE 02:00 WIB] Manchester City vs AEK Athens (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="XYZ STREAMS",[⏳ UPCOMING 02:00 WIB] Liverpool vs Villarreal (Belum Mulai)
+#EXTINF:-1 tvg-logo="" group-title="XYZ STREAMS",[🔴 LIVE 02:00 WIB] Napoli vs Bodø / Glimt (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="XYZ STREAMS",[⏳ UPCOMING 02:00 WIB] Manchester City vs AEK Athens (Belum Mulai)
+#EXTINF:-1 tvg-logo="" group-title="XYZ STREAMS",[🔴 LIVE 02:00 WIB] PSG vs Barcelona (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="XYZ STREAMS",[⏳ UPCOMING 02:00 WIB] Napoli vs Bodø / Glimt (Belum Mulai)
+#EXTINF:-1 tvg-logo="" group-title="XYZ STREAMS",[🔴 LIVE 02:00 WIB] Stuttgart vs Atlético Madrid (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="XYZ STREAMS",[⏳ UPCOMING 02:00 WIB] PSG vs Barcelona (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="XYZ STREAMS",[⏳ UPCOMING 02:00 WIB] Stuttgart vs Atlético Madrid (Belum Mulai)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="XYZ STREAMS",[⏳ UPCOMING 02:00 WIB] Boston Celtics vs Detroit Pistons (Belum Mulai)
+#EXTINF:-1 tvg-logo="" group-title="XYZ STREAMS",[🔴 LIVE 02:00 WIB] Boston Celtics vs Detroit Pistons (Belum Mulai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 
