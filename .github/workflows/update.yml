@@ -1,9 +1,6 @@
 name: XYZStreams Auto Scraper Matrix
 
 on:
-  schedule:
-    # Mengeset cron-job otomatis berjalan berkala setiap 10 menit
-    - cron: '*/10 * * * *'
   workflow_dispatch: # Membuka opsi tombol manual 'Run Workflow' di GitHub
 
 jobs:
