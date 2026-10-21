@@ -1,8 +1,6 @@
 name: 🕵️‍♂️ CarryFlix Sniper Engine
 
 on:
-  schedule:
-    - cron: '*/30 * * * *' # Menjalankan radar otomatis setiap 30 Menit
   workflow_dispatch: # Mengizinkan Kapten menekan tombol eksekusi manual
 
 # 🔑 INJEKSI KUNCI IZIN AGAR ROBOT BISA MENYIMPAN FILE M3U8
